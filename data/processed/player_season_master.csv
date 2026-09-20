@@ -90,7 +90,7 @@ season,player_name,team,role,is_overseas,base_price_cr,price_cr,acquisition,ball
 2022,Avesh Khan,LSG,Bowler,False,,10.0,sold,Avesh Khan,exact,13.0,22.0,13.0,0.0,3.0,1.0,416.0,286.0,18.0,169.2,8.73,True
 2022,Ankit Singh Rajpoot,LSG,Bowler,False,,0.5,sold,AS Rajpoot,last_name_unique,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
 2022,K. Gowtham,LSG,All-Rounder,False,,0.9,sold,K Gowtham,exact,4.0,0.0,1.0,0.0,0.0,1.0,99.0,72.0,5.0,0.0,8.25,True
-2022,Dushmanta Chameera,LSG,Bowler,True,,2.0,sold,PVD Chameera,last_name_unique,12.0,43.0,28.0,3.0,3.0,4.0,384.0,264.0,9.0,153.6,8.73,True
+2022,Dushmanta Chameera,LSG,Bowler,True,,2.0,sold,PVD Chameera,manual,12.0,43.0,28.0,3.0,3.0,4.0,384.0,264.0,9.0,153.6,8.73,True
 2022,Shahbaz Nadeem,LSG,Bowler,False,,0.5,sold,S Nadeem,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
 2022,Manan Vohra,LSG,Batter,False,,0.2,sold,M Vohra,surname+initial,1.0,19.0,11.0,1.0,2.0,1.0,0.0,0.0,0.0,172.7,,True
 2022,Evin Lewis,LSG,Batter,True,,2.0,sold,E Lewis,surname+initial,5.0,73.0,56.0,8.0,3.0,3.0,0.0,0.0,0.0,130.4,,True
@@ -138,7 +138,7 @@ season,player_name,team,role,is_overseas,base_price_cr,price_cr,acquisition,ball
 2022,Prerak Mankad,PBKS,All-Rounder,False,,0.2,sold,PN Mankad,surname+initial,1.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,400.0,,True
 2022,Atharva Taide,PBKS,All-Rounder,False,,0.2,sold,Atharva Taide,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
 2022,Vaibhav Arora,PBKS,Bowler,False,,2.0,sold,VG Arora,surname+initial,5.0,5.0,13.0,0.0,0.0,2.0,164.0,107.0,3.0,38.5,9.2,True
-2022,Bhanuka Rajapaksa,PBKS,Batter,True,,0.5,sold,PBB Rajapaksa,last_name_unique,9.0,206.0,129.0,16.0,13.0,9.0,0.0,0.0,0.0,159.7,,True
+2022,Bhanuka Rajapaksa,PBKS,Batter,True,,0.5,sold,PBB Rajapaksa,manual,9.0,206.0,129.0,16.0,13.0,9.0,0.0,0.0,0.0,159.7,,True
 2022,Benny Howell,PBKS,All-Rounder,True,,0.4,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
 2022,Writtick Chatterjee,PBKS,All-Rounder,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
 2022,Baltej Dhanda,PBKS,Bowler,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
@@ -336,7 +336,7 @@ season,player_name,team,role,is_overseas,base_price_cr,price_cr,acquisition,ball
 2023,Jofra Archer,MI,Bowler,True,,8.0,retained,JC Archer,surname+initial,5.0,4.0,4.0,0.0,0.0,0.0,190.0,120.0,2.0,100.0,9.5,True
 2023,Alzarri Joseph,GT,Bowler,True,,2.4,retained,AS Joseph,surname+initial,7.0,7.0,12.0,1.0,0.0,0.0,225.0,144.0,7.0,58.3,9.38,True
 2023,Rovman Powell,DC,Batter,True,,2.8,retained,R Powell,surname+initial,3.0,7.0,9.0,1.0,0.0,3.0,18.0,12.0,1.0,77.8,9.0,True
-2023,Bhanuka Rajapaksa,PBKS,Batter,True,,0.5,retained,PBB Rajapaksa,last_name_unique,4.0,71.0,62.0,6.0,2.0,4.0,0.0,0.0,0.0,114.5,,True
+2023,Bhanuka Rajapaksa,PBKS,Batter,True,,0.5,retained,PBB Rajapaksa,manual,4.0,71.0,62.0,6.0,2.0,4.0,0.0,0.0,0.0,114.5,,True
 2023,Devon Conway,CSK,Batter,True,,1.0,retained,DP Conway,surname+initial,15.0,672.0,481.0,77.0,18.0,13.0,0.0,0.0,0.0,139.7,,True
 2023,Prashant Solanki,CSK,Bowler,False,,1.2,retained,PH Solanki,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
 2023,Finn Allen,RCB,Wicketkeeper,True,,0.8,retained,,manual_no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
