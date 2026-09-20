@@ -280,7 +280,7 @@ season,player_name,team,role,is_overseas,base_price_cr,price_cr,acquisition,ball
 2023,Philip Salt,DC,Batter,True,2.0,2.0,sold,PD Salt,surname+initial,9.0,218.0,133.0,24.0,10.0,8.0,0.0,0.0,0.0,163.9,,True
 2023,Heinrich Klaasen,SRH,Wicketkeeper,True,1.0,5.25,sold,H Klaasen,surname+initial,11.0,448.0,253.0,32.0,25.0,9.0,0.0,0.0,0.0,177.1,,True
 2023,Ben Stokes,CSK,All-Rounder,True,2.0,16.25,sold,BA Stokes,surname+initial,2.0,15.0,14.0,2.0,0.0,2.0,18.0,6.0,0.0,107.1,18.0,True
-2023,Cameron Green,MI,All-Rounder,True,2.0,17.5,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Cameron Green,MI,All-Rounder,True,2.0,17.5,sold,C Green,manual,16.0,452.0,282.0,40.0,22.0,9.0,361.0,228.0,6.0,160.3,9.5,True
 2023,Sikandar Raza,PBKS,All-Rounder,True,0.5,0.5,sold,Sikandar Raza,exact,7.0,139.0,98.0,10.0,6.0,5.0,118.0,73.0,3.0,141.8,9.7,True
 2023,Sam Curran,PBKS,All-Rounder,True,2.0,18.5,sold,SM Curran,surname+initial,14.0,276.0,203.0,20.0,13.0,10.0,489.0,287.0,10.0,136.0,10.22,True
 2023,Harry Brook,SRH,Batter,True,1.5,13.25,sold,HC Brook,surname+initial,11.0,190.0,154.0,23.0,4.0,9.0,0.0,0.0,0.0,123.4,,True
@@ -422,7 +422,7 @@ season,player_name,team,role,is_overseas,base_price_cr,price_cr,acquisition,ball
 2023,Suryakumar Yadav,MI,Batter,False,,8.0,retained,SA Yadav,surname+initial,16.0,605.0,334.0,65.0,28.0,14.0,0.0,0.0,0.0,181.1,,True
 2023,Jasprit Bumrah,MI,Bowler,False,,12.0,retained,JJ Bumrah,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
 2023,Akash Deep,RCB,Bowler,False,,0.2,retained,Akash Deep,exact,2.0,17.0,8.0,2.0,1.0,1.0,59.0,30.0,1.0,212.5,11.8,True
-2023,Rohit Sharma,MI,Batter,False,,16.0,retained,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Rohit Sharma,MI,Batter,False,,16.0,retained,RG Sharma,manual,16.0,332.0,250.0,35.0,17.0,16.0,0.0,0.0,0.0,132.8,,True
 2023,Dwaine Pretorius,CSK,All-Rounder,True,,0.5,retained,D Pretorius,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,28.0,24.0,0.0,,7.0,True
 2023,KL Rahul,LSG,Wicketkeeper,False,,17.0,retained,KL Rahul,exact,9.0,274.0,242.0,28.0,4.0,8.0,0.0,0.0,0.0,113.2,,True
 2023,Marcus Stoinis,LSG,All-Rounder,True,,9.2,retained,MP Stoinis,surname+initial,15.0,408.0,272.0,28.0,27.0,13.0,100.0,65.0,5.0,150.0,9.23,True
@@ -496,12 +496,12 @@ season,player_name,team,role,is_overseas,base_price_cr,price_cr,acquisition,ball
 2024,Anshul Kamboj,MI,All-Rounder,,0.2,0.2,sold,A Kamboj,surname+initial,3.0,2.0,2.0,0.0,0.0,0.0,114.0,60.0,2.0,100.0,11.4,True
 2024,Shivalik Sharma,MI,All-Rounder,,0.2,0.2,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
 2024,Dilshan Madushanka,MI,Bowler,,0.5,4.6,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
-2024,Alzarri Joseph,,Bowler,True,1.0,11.5,sold,AS Joseph,surname+initial,3.0,0.0,0.0,0.0,0.0,0.0,115.0,58.0,1.0,,11.9,True
-2024,Yash Dayal,,Bowler,False,0.2,5.0,sold,Yash Dayal,exact,14.0,0.0,0.0,0.0,0.0,0.0,458.0,302.0,15.0,,9.1,True
-2024,Lockie Ferguson,,Bowler,True,2.0,2.0,sold,LH Ferguson,surname+initial,7.0,1.0,1.0,0.0,0.0,1.0,255.0,144.0,9.0,100.0,10.62,True
-2024,Tom Curran,,All-Rounder,,1.5,1.5,sold,TK Curran,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
-2024,Saurav Chuahan,,Batter,,0.2,0.2,sold,Saurav Chauhan,fuzzy,3.0,18.0,15.0,1.0,1.0,3.0,0.0,0.0,0.0,120.0,,True
-2024,Swapnil Singh,,All-Rounder,False,0.2,0.2,sold,Swapnil Singh,exact,7.0,37.0,21.0,3.0,3.0,2.0,133.0,90.0,6.0,176.2,8.87,True
+2024,Alzarri Joseph,RCB,Bowler,True,1.0,11.5,sold,AS Joseph,surname+initial,3.0,0.0,0.0,0.0,0.0,0.0,115.0,58.0,1.0,,11.9,True
+2024,Yash Dayal,RCB,Bowler,False,0.2,5.0,sold,Yash Dayal,exact,14.0,0.0,0.0,0.0,0.0,0.0,458.0,302.0,15.0,,9.1,True
+2024,Lockie Ferguson,RCB,Bowler,True,2.0,2.0,sold,LH Ferguson,surname+initial,7.0,1.0,1.0,0.0,0.0,1.0,255.0,144.0,9.0,100.0,10.62,True
+2024,Tom Curran,RCB,All-Rounder,,1.5,1.5,sold,TK Curran,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Saurav Chuahan,RCB,Batter,,0.2,0.2,sold,Saurav Chauhan,fuzzy,3.0,18.0,15.0,1.0,1.0,3.0,0.0,0.0,0.0,120.0,,True
+2024,Swapnil Singh,RCB,All-Rounder,False,0.2,0.2,sold,Swapnil Singh,exact,7.0,37.0,21.0,3.0,3.0,2.0,133.0,90.0,6.0,176.2,8.87,True
 2024,Rovman Powell,RR,Batter,True,1.0,7.4,sold,R Powell,surname+initial,7.0,103.0,68.0,10.0,6.0,6.0,0.0,0.0,0.0,151.5,,True
 2024,Shubham Dubey,RR,Batter,,0.2,5.8,sold,SB Dubey,surname+initial,3.0,33.0,19.0,3.0,2.0,2.0,0.0,0.0,0.0,173.7,,True
 2024,Nandre Burger,RR,Bowler,,0.5,0.5,sold,N Burger,surname+initial,5.0,0.0,0.0,0.0,0.0,0.0,145.0,102.0,7.0,,8.53,True
