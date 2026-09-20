@@ -14,4 +14,4 @@ Python, Pandas, Plotly, Streamlit
 ## Planned modules
 - Player Business ROI calculator
 - Auction value tracker
-- Franchise health dashboard
+- Franchise health dashboards
