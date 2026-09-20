@@ -22,9 +22,9 @@
 9. The 2022 file appears to list auction purchases only. Retained players'
    salaries are missing (the highest price in the file is 15.25 crore).
 10. The 2023 file includes retained players; their price is their retention salary.
-11. The 2024 file has no nationality column. The overseas flag is filled from
-    the 2022 and 2023 files where the same player appears, and is missing
-    for the rest.
+11. The 2024 file has no nationality column. The overseas flag was filled from the
+    2022 and 2023 files where the same player appears, then by hand for the remaining
+    players using public knowledge. [X] low-priced players remain unknown.
 
 ## C. Cleaning decisions
 12. Prices were converted to crores: 2022 text values such as "₹ 4,40,00,000"
