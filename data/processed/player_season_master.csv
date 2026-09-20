@@ -1,0 +1,515 @@
+season,player_name,team,role,is_overseas,base_price_cr,price_cr,acquisition,ball_name,match_method,matches_played,runs,balls_faced,fours,sixes,dismissals,runs_conceded,balls_bowled,wickets,strike_rate,economy,played
+2022,Robin Uthappa,CSK,Batter,False,,2.0,sold,RV Uthappa,surname+initial,11.0,230.0,171.0,19.0,14.0,11.0,0.0,0.0,0.0,134.5,,True
+2022,Dwayne Bravo,CSK,All-Rounder,True,,4.4,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Ambati Rayudu,CSK,Wicketkeeper,False,,6.75,sold,AT Rayudu,surname+initial,11.0,274.0,224.0,25.0,15.0,11.0,0.0,0.0,0.0,122.3,,True
+2022,Deepak Chahar,CSK,Bowler,False,,14.0,sold,DL Chahar,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,C.Hari Nishaanth,CSK,Batter,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,N. Jagadeesan,CSK,Wicketkeeper,False,,0.2,sold,N Jagadeesan,exact,2.0,40.0,37.0,3.0,1.0,1.0,0.0,0.0,0.0,108.1,,True
+2022,K.M. Asif,CSK,Bowler,False,,0.2,sold,KM Asif,fuzzy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Tushar Deshpande,CSK,Bowler,False,,0.2,sold,TU Deshpande,surname+initial,2.0,0.0,0.0,0.0,0.0,0.0,63.0,42.0,1.0,,9.0,True
+2022,Shivam Dube,CSK,All-Rounder,False,,4.0,sold,S Dube,surname+initial,11.0,289.0,185.0,22.0,16.0,10.0,36.0,12.0,0.0,156.2,18.0,True
+2022,Chris Jordan,CSK,All-Rounder,True,,3.6,sold,CJ Jordan,surname+initial,4.0,11.0,8.0,0.0,0.0,1.0,135.0,77.0,2.0,137.5,10.52,True
+2022,Maheesh Theekshana,CSK,Bowler,True,,0.7,sold,M Theekshana,surname+initial,9.0,7.0,7.0,0.0,1.0,1.0,261.0,210.0,12.0,100.0,7.46,True
+2022,Rajvardhan Hangargekar,CSK,All-Rounder,False,,1.5,sold,RS Hangargekar,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Simarjeet Singh,CSK,Bowler,False,,0.2,sold,Simarjeet Singh,exact,6.0,7.0,8.0,0.0,0.0,1.0,138.0,108.0,4.0,87.5,7.67,True
+2022,Devon Conway,CSK,Batter,True,,1.0,sold,DP Conway,surname+initial,7.0,252.0,173.0,23.0,12.0,6.0,0.0,0.0,0.0,145.7,,True
+2022,Dwaine Pretorius,CSK,All-Rounder,True,,0.5,sold,D Pretorius,surname+initial,6.0,44.0,28.0,3.0,3.0,4.0,210.0,126.0,6.0,157.1,10.0,True
+2022,Mitchell Santner,CSK,All-Rounder,True,,1.9,sold,MJ Santner,surname+initial,6.0,22.0,27.0,3.0,0.0,2.0,130.0,114.0,4.0,81.5,6.84,True
+2022,Adam Milne,CSK,Bowler,True,,1.9,sold,AF Milne,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,19.0,15.0,0.0,,7.6,True
+2022,Subhranshu Senapati,CSK,Batter,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Mukesh Choudhary,CSK,Bowler,False,,0.2,sold,Mukesh Choudhary,exact,13.0,6.0,6.0,1.0,0.0,1.0,424.0,273.0,16.0,100.0,9.32,True
+2022,Prashant Solanki,CSK,Bowler,False,,1.2,sold,PH Solanki,surname+initial,2.0,0.0,0.0,0.0,0.0,0.0,38.0,36.0,2.0,,6.33,True
+2022,K.Bhagath Varma,CSK,All-Rounder,False,,0.2,sold,Tilak Varma,last_name_unique,14.0,397.0,303.0,29.0,16.0,11.0,13.0,12.0,0.0,131.0,6.5,True
+2022,David Warner,DC,Batter,True,,6.25,sold,DA Warner,surname+initial,12.0,432.0,287.0,52.0,15.0,9.0,0.0,0.0,0.0,150.5,,True
+2022,Mitchell Marsh,DC,All-Rounder,True,,6.5,sold,MR Marsh,surname+initial,8.0,251.0,189.0,19.0,14.0,8.0,102.0,72.0,4.0,132.8,8.5,True
+2022,Mustafizur Rahman,DC,Bowler,True,,2.0,sold,Mustafizur Rahman,exact,8.0,3.0,5.0,0.0,0.0,0.0,244.0,192.0,8.0,60.0,7.62,True
+2022,Shardul Thakur,DC,Bowler,False,,10.75,sold,SN Thakur,surname+initial,14.0,120.0,87.0,7.0,7.0,8.0,473.0,290.0,15.0,137.9,9.79,True
+2022,Kuldeep Yadav,DC,Bowler,False,,2.0,sold,Kuldeep Yadav,exact,14.0,48.0,52.0,3.0,2.0,1.0,419.0,298.0,21.0,92.3,8.44,True
+2022,Ashwin Hebbar,DC,Batter,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Sarfaraz Khan,DC,All-Rounder,False,,0.2,sold,SN Khan,surname+initial,5.0,91.0,67.0,9.0,2.0,3.0,0.0,0.0,0.0,135.8,,True
+2022,Kamlesh Nagarkoti,DC,All-Rounder,False,,1.1,sold,KL Nagarkoti,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,29.0,12.0,0.0,,14.5,True
+2022,K.S. Bharat,DC,Wicketkeeper,False,,2.0,sold,KS Bharat,last_name_unique,2.0,8.0,7.0,2.0,0.0,2.0,0.0,0.0,0.0,114.3,,True
+2022,Mandeep Singh,DC,Batter,False,,1.1,sold,Mandeep Singh,exact,3.0,18.0,23.0,4.0,0.0,3.0,0.0,0.0,0.0,78.3,,True
+2022,Syed Khaleel Ahmed,DC,Bowler,False,,5.25,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Lungisani Ngidi,DC,Bowler,True,,0.5,sold,L Ngidi,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Chetan Sakariya,DC,Bowler,False,,4.2,sold,C Sakariya,surname+initial,3.0,0.0,0.0,0.0,0.0,0.0,84.0,66.0,3.0,,7.64,True
+2022,Yash Dhull,DC,All-Rounder,False,,0.5,sold,YV Dhull,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Vicky Ostwal,DC,All-Rounder,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Ripal Patel,DC,All-Rounder,False,,0.2,sold,RV Patel,surname+initial,1.0,6.0,3.0,0.0,1.0,1.0,0.0,0.0,0.0,200.0,,True
+2022,Lalit Yadav,DC,All-Rounder,False,,0.65,sold,Lalit Yadav,exact,10.0,161.0,146.0,11.0,7.0,7.0,150.0,108.0,4.0,110.3,8.33,True
+2022,Rovman Powell,DC,Batter,True,,2.8,sold,R Powell,surname+initial,12.0,250.0,167.0,10.0,22.0,10.0,17.0,6.0,0.0,149.7,17.0,True
+2022,Tim Seifert,DC,Wicketkeeper,True,,0.5,sold,TL Seifert,surname+initial,2.0,24.0,19.0,4.0,0.0,2.0,0.0,0.0,0.0,126.3,,True
+2022,Pravin Dubey,DC,All-Rounder,False,,0.5,sold,P Dubey,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Mohammad Shami,GT,Bowler,False,,6.25,sold,Mohammed Shami,surname+initial,16.0,0.0,0.0,0.0,0.0,0.0,488.0,366.0,20.0,,8.0,True
+2022,David Miller,GT,Batter,True,,3.0,sold,DA Miller,surname+initial,16.0,481.0,337.0,32.0,23.0,7.0,0.0,0.0,0.0,142.7,,True
+2022,Jason Roy,GT,Batter,True,,2.0,sold,JJ Roy,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Wriddhiman Saha,GT,Wicketkeeper,False,,1.9,sold,WP Saha,surname+initial,11.0,317.0,259.0,40.0,7.0,10.0,0.0,0.0,0.0,122.4,,True
+2022,Matthew Wade,GT,Wicketkeeper,True,,2.4,sold,MS Wade,surname+initial,10.0,157.0,138.0,23.0,2.0,10.0,0.0,0.0,0.0,113.8,,True
+2022,Lockie Ferguson,GT,Bowler,True,,10.0,sold,LH Ferguson,surname+initial,13.0,5.0,4.0,1.0,0.0,2.0,427.0,286.0,12.0,125.0,8.96,True
+2022,Abhinav Sadarangani,GT,Batter,False,,2.6,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Rahul Tewatia,GT,All-Rounder,False,,9.0,sold,R Tewatia,surname+initial,13.0,217.0,147.0,22.0,9.0,7.0,76.0,36.0,0.0,147.6,12.67,True
+2022,Noor Ahmad,GT,Bowler,True,,0.3,sold,Noor Ahmad,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,R. Sai Kishore,GT,Bowler,False,,3.0,sold,R Sai Kishore,exact,5.0,0.0,0.0,0.0,0.0,0.0,121.0,96.0,6.0,,7.56,True
+2022,Dominic Drakes,GT,All-Rounder,True,,1.1,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Vijay Shankar,GT,All-Rounder,False,,1.4,sold,V Shankar,surname+initial,4.0,19.0,35.0,1.0,0.0,4.0,15.0,9.0,0.0,54.3,10.0,True
+2022,Jayant Yadav,GT,All-Rounder,False,,1.7,sold,J Yadav,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Darshan Nalkande,GT,All-Rounder,False,,0.2,sold,DG Nalkande,surname+initial,2.0,0.0,0.0,0.0,0.0,0.0,59.0,31.0,2.0,,11.42,True
+2022,Yash Dayal,GT,Bowler,False,,3.2,sold,Yash Dayal,exact,9.0,0.0,1.0,0.0,0.0,1.0,296.0,192.0,11.0,0.0,9.25,True
+2022,B. Sai Sudharsan,GT,All-Rounder,False,,0.2,sold,B Sai Sudharsan,exact,5.0,145.0,114.0,14.0,3.0,4.0,0.0,0.0,0.0,127.2,,True
+2022,Gurkeerat Singh,GT,All-Rounder,False,,0.5,sold,Gurkeerat Singh,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Alzarri Joseph,GT,Bowler,True,,2.4,sold,AS Joseph,surname+initial,9.0,5.0,7.0,0.0,0.0,1.0,264.0,180.0,7.0,71.4,8.8,True
+2022,Varun Aaron,GT,Bowler,False,,0.5,sold,VR Aaron,surname+initial,2.0,0.0,0.0,0.0,0.0,0.0,52.0,30.0,2.0,,10.4,True
+2022,Pradeep Sangwan,GT,All-Rounder,False,,0.2,sold,PJ Sangwan,surname+initial,3.0,2.0,5.0,0.0,0.0,1.0,65.0,54.0,3.0,40.0,7.22,True
+2022,Pat Cummins,KKR,All-Rounder,True,,7.25,sold,PJ Cummins,surname+initial,5.0,63.0,24.0,5.0,6.0,4.0,212.0,119.0,7.0,262.5,10.69,True
+2022,Shreyas Iyer,KKR,Batter,False,,12.25,sold,SS Iyer,surname+initial,14.0,401.0,298.0,41.0,11.0,13.0,7.0,6.0,0.0,134.6,7.0,True
+2022,Mohammad Nabi,KKR,All-Rounder,True,,1.0,sold,Mohammad Nabi,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Nitish Rana,KKR,All-Rounder,False,,8.0,sold,N Rana,surname+initial,14.0,361.0,251.0,29.0,22.0,13.0,23.0,12.0,0.0,143.8,11.5,True
+2022,Sam Billings,KKR,Wicketkeeper,True,,2.0,sold,SW Billings,surname+initial,8.0,169.0,138.0,9.0,10.0,7.0,0.0,0.0,0.0,122.5,,True
+2022,Umesh Yadav,KKR,Bowler,False,,2.0,sold,UT Yadav,surname+initial,12.0,55.0,40.0,4.0,4.0,4.0,339.0,288.0,16.0,137.5,7.06,True
+2022,Shivam Mavi,KKR,All-Rounder,False,,7.25,sold,Shivam Mavi,exact,6.0,3.0,7.0,0.0,0.0,2.0,227.0,132.0,5.0,42.9,10.32,True
+2022,Sheldon Jackson,KKR,Wicketkeeper,False,,0.6,sold,SP Jackson,surname+initial,5.0,23.0,26.0,0.0,1.0,4.0,0.0,0.0,0.0,88.5,,True
+2022,Ajinkya Rahane,KKR,Batter,False,,1.0,sold,AM Rahane,surname+initial,7.0,133.0,128.0,14.0,4.0,7.0,0.0,0.0,0.0,103.9,,True
+2022,Rinku Singh,KKR,Batter,False,,0.55,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Anukul Roy,KKR,All-Rounder,False,,0.2,sold,AS Roy,surname+initial,2.0,0.0,2.0,0.0,0.0,1.0,55.0,42.0,1.0,0.0,7.86,True
+2022,Alex Hales,KKR,Batter,True,,1.5,sold,AD Hales,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Rasikh Dar,KKR,Bowler,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Tim Southee,KKR,Bowler,True,,1.5,sold,TG Southee,surname+initial,9.0,2.0,12.0,0.0,0.0,4.0,275.0,210.0,14.0,16.7,7.86,True
+2022,Baba Indrajith,KKR,Wicketkeeper,False,,0.2,sold,B Indrajith,surname+initial,3.0,21.0,30.0,2.0,0.0,3.0,0.0,0.0,0.0,70.0,,True
+2022,Chamika Karunaratne,KKR,All-Rounder,True,,0.5,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Abhijeet Tomar,KKR,Batter,False,,0.4,sold,A Tomar,surname+initial,1.0,4.0,8.0,1.0,0.0,1.0,0.0,0.0,0.0,50.0,,True
+2022,Aman Khan,KKR,All-Rounder,False,,0.2,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Ramesh Kumar,KKR,Batter,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Pratham Singh,KKR,Batter,False,,0.2,sold,Pankaj Singh,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Ashok Sharma,KKR,Bowler,False,,0.55,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Quinton De Kock,LSG,Wicketkeeper,True,,6.75,sold,Q de Kock,surname+initial,15.0,508.0,341.0,47.0,23.0,14.0,0.0,0.0,0.0,149.0,,True
+2022,Manish Pandey,LSG,Batter,False,,4.6,sold,MK Pandey,surname+initial,6.0,88.0,80.0,9.0,2.0,6.0,0.0,0.0,0.0,110.0,,True
+2022,Jason Holder,LSG,All-Rounder,True,,8.75,sold,JO Holder,surname+initial,12.0,58.0,44.0,2.0,6.0,6.0,391.0,249.0,14.0,131.8,9.42,True
+2022,Deepak Hooda,LSG,All-Rounder,False,,5.75,sold,DJ Hooda,surname+initial,14.0,451.0,330.0,36.0,18.0,14.0,43.0,24.0,1.0,136.7,10.75,True
+2022,Krunal Pandya,LSG,All-Rounder,False,,8.25,sold,KH Pandya,surname+initial,14.0,183.0,145.0,16.0,4.0,9.0,265.0,228.0,10.0,126.2,6.97,True
+2022,Mark Wood,LSG,Bowler,True,,7.5,sold,MA Wood,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Avesh Khan,LSG,Bowler,False,,10.0,sold,Avesh Khan,exact,13.0,22.0,13.0,0.0,3.0,1.0,416.0,286.0,18.0,169.2,8.73,True
+2022,Ankit Singh Rajpoot,LSG,Bowler,False,,0.5,sold,AS Rajpoot,last_name_unique,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,K. Gowtham,LSG,All-Rounder,False,,0.9,sold,K Gowtham,exact,4.0,0.0,1.0,0.0,0.0,1.0,99.0,72.0,5.0,0.0,8.25,True
+2022,Dushmanta Chameera,LSG,Bowler,True,,2.0,sold,PVD Chameera,last_name_unique,12.0,43.0,28.0,3.0,3.0,4.0,384.0,264.0,9.0,153.6,8.73,True
+2022,Shahbaz Nadeem,LSG,Bowler,False,,0.5,sold,S Nadeem,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Manan Vohra,LSG,Batter,False,,0.2,sold,M Vohra,surname+initial,1.0,19.0,11.0,1.0,2.0,1.0,0.0,0.0,0.0,172.7,,True
+2022,Evin Lewis,LSG,Batter,True,,2.0,sold,E Lewis,surname+initial,5.0,73.0,56.0,8.0,3.0,3.0,0.0,0.0,0.0,130.4,,True
+2022,Mohsin Khan,LSG,Bowler,False,,0.2,sold,Mohsin Khan,exact,9.0,23.0,16.0,2.0,1.0,1.0,197.0,198.0,14.0,143.8,5.97,True
+2022,Mayank Yadav,LSG,Bowler,False,,0.2,sold,MP Yadav,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Ayush Badoni,LSG,All-Rounder,False,,0.2,sold,A Badoni,surname+initial,11.0,161.0,130.0,11.0,7.0,8.0,11.0,12.0,2.0,123.8,5.5,True
+2022,Kyle Mayers,LSG,All-Rounder,True,,0.5,sold,KR Mayers,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Karan Sharma,LSG,All-Rounder,False,,0.2,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Ishan Kishan,MI,Wicketkeeper,False,,15.25,sold,Ishan Kishan,exact,14.0,418.0,348.0,45.0,11.0,13.0,0.0,0.0,0.0,120.1,,True
+2022,Dewald Brevis,MI,Batter,True,,3.0,sold,D Brevis,surname+initial,7.0,161.0,113.0,14.0,11.0,7.0,8.0,3.0,1.0,142.5,16.0,True
+2022,Anmolpreet Singh,MI,Batter,False,,0.2,sold,Anmolpreet Singh,exact,2.0,13.0,13.0,1.0,0.0,2.0,0.0,0.0,0.0,100.0,,True
+2022,Basil Thampi,MI,Bowler,False,,0.3,sold,Basil Thampi,exact,5.0,0.0,0.0,0.0,0.0,0.0,152.0,96.0,5.0,,9.5,True
+2022,Murugan Ashwin,MI,Bowler,False,,1.6,sold,M Ashwin,surname+initial,8.0,12.0,14.0,1.0,1.0,3.0,228.0,174.0,9.0,85.7,7.86,True
+2022,Jaydev Unadkat,MI,Bowler,False,,1.3,sold,JD Unadkat,surname+initial,5.0,59.0,37.0,4.0,3.0,3.0,190.0,120.0,6.0,159.5,9.5,True
+2022,Mayank Markande,MI,Bowler,False,,0.65,sold,M Markande,surname+initial,2.0,0.0,0.0,0.0,0.0,0.0,57.0,42.0,1.0,,8.14,True
+2022,N. Tilak Varma,MI,All-Rounder,False,,1.7,sold,Tilak Varma,fuzzy,14.0,397.0,303.0,29.0,16.0,11.0,13.0,12.0,0.0,131.0,6.5,True
+2022,Sanjay Yadav,MI,All-Rounder,False,,0.5,sold,SA Yadav,surname+initial,8.0,303.0,208.0,23.0,16.0,7.0,0.0,0.0,0.0,145.7,,True
+2022,Jofra Archer,MI,All-Rounder,True,,8.0,sold,JC Archer,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Daniel Sams,MI,All-Rounder,True,,2.6,sold,DR Sams,surname+initial,11.0,38.0,36.0,1.0,3.0,7.0,370.0,252.0,13.0,105.6,8.81,True
+2022,Tymal Mills,MI,Bowler,True,,1.5,sold,TS Mills,surname+initial,5.0,0.0,3.0,0.0,0.0,1.0,190.0,102.0,6.0,0.0,11.18,True
+2022,Tim David,MI,All-Rounder,True,,8.25,sold,TH David,surname+initial,8.0,186.0,86.0,12.0,16.0,5.0,0.0,0.0,0.0,216.3,,True
+2022,Ramandeep Singh,MI,All-Rounder,False,,0.2,sold,Ramandeep Singh,exact,5.0,45.0,40.0,3.0,1.0,2.0,54.0,36.0,6.0,112.5,9.0,True
+2022,Aryan Juyal,MI,Wicketkeeper,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Fabian Allen,MI,All-Rounder,True,,0.75,sold,FA Allen,surname+initial,1.0,8.0,7.0,1.0,0.0,1.0,46.0,24.0,1.0,114.3,11.5,True
+2022,Riley Meredith,MI,Bowler,True,,1.0,sold,RP Meredith,surname+initial,8.0,0.0,1.0,0.0,0.0,0.0,236.0,168.0,8.0,0.0,8.43,True
+2022,Rahul Buddhi,MI,Batter,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Hrithik Shokeen,MI,All-Rounder,False,,0.2,sold,HR Shokeen,surname+initial,5.0,43.0,48.0,5.0,0.0,2.0,127.0,90.0,2.0,89.6,8.47,True
+2022,Mohd. Arshad Khan,MI,All-Rounder,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Arjun Tendulkar,MI,All-Rounder,False,,0.3,sold,Arjun Tendulkar,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Shikhar Dhawan,PBKS,Batter,False,,8.25,sold,S Dhawan,surname+initial,14.0,460.0,375.0,47.0,12.0,12.0,0.0,0.0,0.0,122.7,,True
+2022,Kagiso Rabada,PBKS,Bowler,True,,9.25,sold,K Rabada,surname+initial,13.0,48.0,43.0,5.0,2.0,5.0,406.0,288.0,23.0,111.6,8.46,True
+2022,Jonny Bairstow,PBKS,Wicketkeeper,True,,6.75,sold,JM Bairstow,surname+initial,11.0,253.0,175.0,34.0,9.0,11.0,0.0,0.0,0.0,144.6,,True
+2022,Rahul Chahar,PBKS,Bowler,False,,5.25,sold,RD Chahar,surname+initial,13.0,77.0,68.0,7.0,4.0,6.0,360.0,280.0,14.0,113.2,7.71,True
+2022,Harpreet Brar,PBKS,All-Rounder,False,,3.8,sold,Harpreet Brar,exact,5.0,22.0,25.0,1.0,2.0,3.0,146.0,96.0,4.0,88.0,9.12,True
+2022,Shahrukh Khan,PBKS,All-Rounder,False,,9.0,sold,SN Khan,surname+initial,5.0,91.0,67.0,9.0,2.0,3.0,0.0,0.0,0.0,135.8,,True
+2022,Jitesh Sharma,PBKS,Wicketkeeper,False,,0.2,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Prabhsimran Singh,PBKS,Wicketkeeper,False,,0.6,sold,Pankaj Singh,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Ishan Porel,PBKS,Bowler,False,,0.25,sold,IC Porel,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Liam Livingstone,PBKS,All-Rounder,True,,11.5,sold,LS Livingstone,surname+initial,14.0,437.0,240.0,29.0,34.0,12.0,202.0,138.0,6.0,182.1,8.78,True
+2022,Odean Smith,PBKS,All-Rounder,True,,6.0,sold,OF Smith,surname+initial,6.0,51.0,44.0,1.0,5.0,3.0,178.0,90.0,6.0,115.9,11.87,True
+2022,Sandeep Sharma,PBKS,Bowler,False,,0.5,sold,Sandeep Sharma,exact,5.0,0.0,0.0,0.0,0.0,0.0,153.0,120.0,2.0,,7.65,True
+2022,Raj Angad Bawa,PBKS,All-Rounder,False,,2.0,sold,RA Bawa,last_name_unique,2.0,11.0,14.0,1.0,0.0,2.0,0.0,0.0,0.0,78.6,,True
+2022,Rishi Dhawan,PBKS,All-Rounder,False,,0.55,sold,R Dhawan,surname+initial,6.0,37.0,40.0,4.0,2.0,2.0,156.0,114.0,6.0,92.5,8.21,True
+2022,Nathan Ellis,PBKS,Bowler,True,,0.75,sold,NT Ellis,surname+initial,2.0,0.0,2.0,0.0,0.0,1.0,55.0,36.0,3.0,0.0,9.17,True
+2022,Prerak Mankad,PBKS,All-Rounder,False,,0.2,sold,PN Mankad,surname+initial,1.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,400.0,,True
+2022,Atharva Taide,PBKS,All-Rounder,False,,0.2,sold,Atharva Taide,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Vaibhav Arora,PBKS,Bowler,False,,2.0,sold,VG Arora,surname+initial,5.0,5.0,13.0,0.0,0.0,2.0,164.0,107.0,3.0,38.5,9.2,True
+2022,Bhanuka Rajapaksa,PBKS,Batter,True,,0.5,sold,PBB Rajapaksa,last_name_unique,9.0,206.0,129.0,16.0,13.0,9.0,0.0,0.0,0.0,159.7,,True
+2022,Benny Howell,PBKS,All-Rounder,True,,0.4,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Writtick Chatterjee,PBKS,All-Rounder,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Baltej Dhanda,PBKS,Bowler,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Ansh Patel,PBKS,All-Rounder,False,,0.2,sold,AR Patel,surname+initial,13.0,182.0,120.0,12.0,10.0,4.0,321.0,258.0,6.0,151.7,7.47,True
+2022,R. Ashwin,RR,All-Rounder,False,,5.0,sold,R Ashwin,exact,17.0,191.0,135.0,14.0,9.0,7.0,503.0,402.0,12.0,141.5,7.51,True
+2022,Trent Boult,RR,Bowler,True,,8.0,sold,TA Boult,surname+initial,16.0,40.0,29.0,2.0,1.0,2.0,492.0,372.0,16.0,137.9,7.94,True
+2022,Shimron Hetmyer,RR,Batter,True,,8.5,sold,SO Hetmyer,surname+initial,15.0,314.0,204.0,21.0,21.0,7.0,0.0,0.0,0.0,153.9,,True
+2022,Devdutt Padikkal,RR,Batter,False,,7.75,sold,D Padikkal,surname+initial,17.0,376.0,306.0,41.0,14.0,17.0,0.0,0.0,0.0,122.9,,True
+2022,Prasidh Krishna,RR,Bowler,False,,10.0,sold,M Prasidh Krishna,last_name_unique,17.0,6.0,12.0,0.0,0.0,1.0,551.0,399.0,19.0,50.0,8.29,True
+2022,Yuzvendra Chahal,RR,Bowler,False,,6.5,sold,YS Chahal,surname+initial,17.0,5.0,8.0,0.0,0.0,1.0,527.0,408.0,27.0,62.5,7.75,True
+2022,Riyan Parag,RR,All-Rounder,False,,3.8,sold,R Parag,surname+initial,15.0,183.0,132.0,11.0,10.0,11.0,59.0,24.0,1.0,138.6,14.75,True
+2022,K.C Cariappa,RR,Bowler,False,,0.3,sold,KC Cariappa,last_name_unique,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,James Neesham,RR,All-Rounder,True,,1.5,sold,JDS Neesham,surname+initial,2.0,31.0,27.0,3.0,0.0,2.0,29.0,18.0,0.0,114.8,9.67,True
+2022,Nathan Coulter-Nile,RR,Bowler,True,,2.0,sold,NM Coulter-Nile,surname+initial,1.0,1.0,2.0,0.0,0.0,0.0,48.0,18.0,0.0,50.0,16.0,True
+2022,Navdeep Saini,RR,Bowler,False,,2.6,sold,Navdeep Saini,exact,2.0,2.0,2.0,0.0,0.0,1.0,72.0,36.0,3.0,100.0,12.0,True
+2022,Kuldeep Sen,RR,Bowler,False,,0.2,sold,KR Sen,surname+initial,7.0,0.0,3.0,0.0,0.0,0.0,237.0,151.0,8.0,0.0,9.42,True
+2022,Karun Nair,RR,Batter,False,,1.4,sold,KK Nair,surname+initial,2.0,16.0,18.0,1.0,0.0,2.0,0.0,0.0,0.0,88.9,,True
+2022,Rassie Van Der Dussen,RR,Batter,True,,1.0,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Daryl Mitchell,RR,All-Rounder,True,,0.75,sold,DJ Mitchell,surname+initial,2.0,33.0,44.0,1.0,0.0,2.0,27.0,12.0,0.0,75.0,13.5,True
+2022,Obed Mccoy,RR,Bowler,True,,0.75,sold,OC McCoy,surname+initial,7.0,8.0,5.0,0.0,1.0,1.0,236.0,156.0,11.0,160.0,9.08,True
+2022,Dhruv Jurel,RR,Wicketkeeper,False,,0.2,sold,Dhruv Jurel,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Tejas Baroka,RR,Bowler,False,,0.2,sold,Tejas Baroka,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Kuldip Yadav,RR,Bowler,False,,0.2,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Shubham Garhwal,RR,All-Rounder,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Anunay Singh,RR,All-Rounder,False,,0.2,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Faf Du Plessis,RCB,Batter,True,,7.0,sold,F du Plessis,surname+initial,16.0,468.0,367.0,49.0,13.0,15.0,0.0,0.0,0.0,127.5,,True
+2022,Wanindu Hasaranga,RCB,All-Rounder,True,,10.75,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Harshal Patel,RCB,All-Rounder,False,,10.75,sold,HV Patel,surname+initial,15.0,43.0,39.0,4.0,2.0,5.0,410.0,321.0,19.0,110.3,7.66,True
+2022,Dinesh Karthik,RCB,Wicketkeeper,False,,5.5,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Josh Hazlewood,RCB,Bowler,True,,7.75,sold,JR Hazlewood,surname+initial,12.0,18.0,26.0,1.0,0.0,0.0,377.0,279.0,20.0,69.2,8.11,True
+2022,Shahbaz Ahamad,RCB,All-Rounder,False,,2.4,sold,Shahbaz Ahmed,fuzzy,16.0,219.0,181.0,14.0,9.0,8.0,336.0,210.0,4.0,121.0,9.6,True
+2022,Anuj Rawat,RCB,Wicketkeeper,False,,3.4,sold,Anuj Rawat,exact,8.0,129.0,118.0,10.0,7.0,8.0,0.0,0.0,0.0,109.3,,True
+2022,Akash Deep,RCB,Bowler,False,,0.2,sold,Akash Deep,exact,5.0,0.0,2.0,0.0,0.0,1.0,205.0,113.0,5.0,0.0,10.88,True
+2022,Karn Sharma,RCB,Bowler,False,,0.5,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Mahipal Lomror,RCB,All-Rounder,False,,0.95,sold,MK Lomror,surname+initial,7.0,86.0,57.0,7.0,4.0,5.0,18.0,12.0,0.0,150.9,9.0,True
+2022,Finn Allen,RCB,Batter,True,,0.8,sold,FA Allen,surname+initial,1.0,8.0,7.0,1.0,0.0,1.0,46.0,24.0,1.0,114.3,11.5,True
+2022,Sherfane Rutherford,RCB,All-Rounder,True,,1.0,sold,SE Rutherford,surname+initial,2.0,33.0,50.0,1.0,1.0,2.0,0.0,0.0,0.0,66.0,,True
+2022,Jason Behrendorff,RCB,Bowler,True,,0.75,sold,JP Behrendorff,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Siddharth Kaul,RCB,Bowler,False,,0.75,sold,S Kaul,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,43.0,24.0,0.0,,10.75,True
+2022,Suyash Prabhudessai,RCB,All-Rounder,False,,0.3,sold,SS Prabhudessai,surname+initial,5.0,67.0,59.0,7.0,2.0,5.0,0.0,0.0,0.0,113.6,,True
+2022,Luvnith Sisodia,RCB,Wicketkeeper,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Chama Milind,RCB,Bowler,False,,0.25,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Aneeshwar Gautam,RCB,All-Rounder,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,David Willey,RCB,All-Rounder,True,,2.0,sold,DJ Willey,surname+initial,4.0,18.0,30.0,3.0,0.0,2.0,72.0,66.0,1.0,60.0,6.55,True
+2022,Washington Sundar,SRH,All-Rounder,False,,8.75,sold,Washington Sundar,exact,9.0,101.0,69.0,9.0,3.0,7.0,239.0,168.0,6.0,146.4,8.54,True
+2022,Nicholas Pooran,SRH,Wicketkeeper,True,,10.75,sold,N Pooran,surname+initial,13.0,306.0,212.0,16.0,21.0,8.0,0.0,0.0,0.0,144.3,,True
+2022,Bhuvneshwar Kumar,SRH,Bowler,False,,4.2,sold,B Kumar,surname+initial,14.0,24.0,26.0,3.0,0.0,3.0,383.0,313.0,12.0,92.3,7.34,True
+2022,T. Natarajan,SRH,Bowler,False,,4.0,sold,T Natarajan,exact,11.0,0.0,0.0,0.0,0.0,0.0,406.0,258.0,18.0,,9.44,True
+2022,Priyam Garg,SRH,Batter,False,,0.2,sold,PK Garg,surname+initial,2.0,46.0,33.0,4.0,2.0,2.0,0.0,0.0,0.0,139.4,,True
+2022,Rahul Tripathi,SRH,Batter,False,,8.5,sold,RA Tripathi,surname+initial,14.0,413.0,261.0,40.0,20.0,12.0,0.0,0.0,0.0,158.2,,True
+2022,Abhishek Sharma,SRH,All-Rounder,False,,6.5,sold,Abhishek Sharma,exact,14.0,426.0,320.0,47.0,13.0,14.0,38.0,24.0,0.0,133.1,9.5,True
+2022,Vishnu Vinod,SRH,Wicketkeeper,False,,0.5,sold,Vishnu Vinod,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Kartik Tyagi,SRH,Bowler,False,,4.0,sold,Kartik Tyagi,exact,2.0,7.0,6.0,1.0,0.0,2.0,79.0,48.0,1.0,116.7,9.88,True
+2022,Shreyas Gopal,SRH,Bowler,False,,0.75,sold,S Gopal,surname+initial,1.0,9.0,7.0,2.0,0.0,0.0,34.0,18.0,1.0,128.6,11.33,True
+2022,Jagadeesha Suchith,SRH,Bowler,False,,0.2,sold,J Suchith,surname+initial,5.0,2.0,8.0,0.0,0.0,2.0,140.0,108.0,7.0,25.0,7.78,True
+2022,Aiden Markram,SRH,Batter,True,,2.6,sold,AK Markram,surname+initial,13.0,381.0,274.0,25.0,19.0,8.0,64.0,36.0,1.0,139.1,10.67,True
+2022,Marco Jansen,SRH,All-Rounder,True,,4.2,sold,M Jansen,surname+initial,8.0,9.0,7.0,0.0,1.0,1.0,274.0,192.0,7.0,128.6,8.56,True
+2022,Romario Shepherd,SRH,All-Rounder,True,,7.75,sold,R Shepherd,surname+initial,3.0,58.0,41.0,2.0,5.0,2.0,98.0,54.0,3.0,141.5,10.89,True
+2022,Glenn Phillips,SRH,Wicketkeeper,True,,1.5,sold,GD Phillips,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Fazalhaq Farooqi,SRH,Bowler,True,,0.5,sold,Fazalhaq Farooqi,exact,3.0,2.0,8.0,0.0,0.0,0.0,110.0,72.0,2.0,25.0,9.17,True
+2022,Sean Abbott,SRH,Bowler,True,,2.4,sold,SA Abbott,surname+initial,1.0,7.0,5.0,0.0,1.0,1.0,47.0,24.0,1.0,140.0,11.75,True
+2022,R Samarth,SRH,Batter,False,,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2022,Shashank Singh,SRH,All-Rounder,False,,0.2,sold,Shashank Singh,exact,6.0,69.0,47.0,5.0,4.0,4.0,20.0,12.0,0.0,146.8,10.0,True
+2022,Saurabh Dubey,SRH,Bowler,False,,0.2,sold,SB Dubey,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Harshit Rana,KKR,Bowler,False,,0.2,retained,Harshit Rana,exact,6.0,0.0,1.0,0.0,0.0,1.0,147.0,102.0,5.0,0.0,8.65,True
+2023,Shakib Al Hasan,KKR,All-Rounder,True,1.5,1.5,sold,Shakib Al Hasan,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Joe Root,RR,Batter,True,1.0,1.0,sold,JE Root,surname+initial,2.0,10.0,15.0,1.0,0.0,1.0,14.0,12.0,0.0,66.7,7.0,True
+2023,Abdul Basith,RR,All-Rounder,False,0.2,0.2,sold,Abdul Basith,exact,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,,True
+2023,Akeal Hosein,SRH,Bowler,True,1.0,1.0,sold,AJ Hosein,surname+initial,1.0,16.0,10.0,1.0,1.0,0.0,40.0,24.0,1.0,160.0,10.0,True
+2023,Raghav Goyal,MI,Bowler,False,0.2,0.2,sold,R Goyal,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,33.0,24.0,0.0,,8.25,True
+2023,Yudhvir Singh Charak,LSG,All-Rounder,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Naveen-ul-Haq,LSG,All-Rounder,True,0.5,0.5,sold,Naveen-ul-Haq,exact,7.0,16.0,21.0,2.0,0.0,1.0,218.0,169.0,11.0,76.2,7.74,True
+2023,Akash Vashist,RR,All-Rounder,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Mandeep Singh,KKR,Batter,False,0.5,0.5,sold,Mandeep Singh,exact,3.0,14.0,16.0,0.0,1.0,3.0,0.0,0.0,0.0,87.5,,True
+2023,Murugan Ashwin,RR,Bowler,False,0.2,0.2,sold,M Ashwin,surname+initial,2.0,0.0,0.0,0.0,0.0,0.0,53.0,24.0,0.0,,13.25,True
+2023,KM Asif,RR,Bowler,False,0.3,0.3,sold,KM Asif,exact,4.0,0.0,2.0,0.0,0.0,1.0,137.0,85.0,3.0,0.0,9.67,True
+2023,Anmolpreet Singh,SRH,Batter,False,0.2,0.2,sold,Anmolpreet Singh,exact,4.0,105.0,82.0,15.0,2.0,4.0,0.0,0.0,0.0,128.0,,True
+2023,Adam Zampa,RR,Bowler,True,1.5,1.5,sold,A Zampa,surname+initial,6.0,10.0,16.0,0.0,0.0,3.0,188.0,132.0,8.0,62.5,8.55,True
+2023,Litton Das,KKR,Wicketkeeper,True,0.5,0.5,sold,Liton Das,surname+initial,1.0,4.0,4.0,1.0,0.0,1.0,0.0,0.0,0.0,100.0,,True
+2023,Rilee Rossouw,DC,Batter,True,2.0,4.6,sold,RR Rossouw,surname+initial,9.0,209.0,141.0,17.0,11.0,7.0,0.0,0.0,0.0,148.2,,True
+2023,Shivam Singh,PBKS,All-Rounder,False,0.2,0.2,sold,Shivam Singh,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Mohit Rathee,PBKS,All-Rounder,False,0.2,0.2,sold,Mohit Rathee,exact,1.0,1.0,2.0,0.0,0.0,0.0,29.0,12.0,0.0,50.0,14.5,True
+2023,Bhagath Varma,CSK,All-Rounder,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Nehal Wadhera,MI,All-Rounder,False,0.2,0.2,sold,N Wadhera,surname+initial,10.0,241.0,166.0,23.0,12.0,9.0,0.0,0.0,0.0,145.2,,True
+2023,Sonu Yadav,RCB,All-Rounder,False,0.2,0.2,sold,SA Yadav,surname+initial,16.0,605.0,334.0,65.0,28.0,14.0,0.0,0.0,0.0,181.1,,True
+2023,Kunal Singh Rathore,RR,Wicketkeeper,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Ajay Jadav Mandal,CSK,All-Rounder,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Kulwant Khejroliya,KKR,Bowler,False,0.2,0.2,sold,K Khejroliya,surname+initial,2.0,0.0,0.0,0.0,0.0,0.0,64.0,26.0,2.0,,14.77,True
+2023,Avinash Singh,RCB,Bowler,False,0.2,0.6,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Nitish Reddy,SRH,Wicketkeeper,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,David Wiese,KKR,All-Rounder,True,1.0,1.0,sold,D Wiese,surname+initial,3.0,21.0,11.0,0.0,3.0,1.0,38.0,18.0,0.0,190.9,12.67,True
+2023,Swapnil Singh,LSG,All-Rounder,False,0.2,0.2,sold,Swapnil Singh,exact,2.0,2.0,4.0,0.0,0.0,0.0,18.0,12.0,0.0,50.0,9.0,True
+2023,Shams Mulani,MI,All-Rounder,False,0.2,0.2,sold,SZ Mulani,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Mohit Sharma,GT,Bowler,False,0.5,0.5,sold,MM Sharma,surname+initial,14.0,0.0,1.0,0.0,0.0,0.0,361.0,265.0,27.0,0.0,8.17,True
+2023,Joshua Little,GT,Bowler,True,0.5,4.4,sold,J Little,surname+initial,10.0,0.0,0.0,0.0,0.0,0.0,294.0,204.0,7.0,,8.65,True
+2023,Suyash Sharma,KKR,Bowler,False,0.2,0.2,sold,Suyash Sharma,exact,11.0,0.0,0.0,0.0,0.0,0.0,321.0,234.0,10.0,,8.23,True
+2023,Rajan Kumar,RCB,Bowler,False,0.2,0.7,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Vidhwath Kaverappa,PBKS,Bowler,False,0.2,0.2,sold,V Kaverappa,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Vishnu Vinod,MI,Wicketkeeper,False,0.2,0.2,sold,Vishnu Vinod,exact,3.0,37.0,31.0,2.0,2.0,3.0,0.0,0.0,0.0,119.4,,True
+2023,Urvil Patel,GT,Wicketkeeper,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Donavon Ferreira,RR,Wicketkeeper,True,0.2,0.5,sold,D Ferreira,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Prerak Mankad,LSG,All-Rounder,False,0.2,0.2,sold,PN Mankad,surname+initial,5.0,93.0,72.0,12.0,2.0,3.0,0.0,0.0,0.0,129.2,,True
+2023,Duan Jansen,MI,All-Rounder,True,0.2,0.2,sold,D Jansen,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,53.0,24.0,1.0,,13.25,True
+2023,Mayank Dagar,SRH,All-Rounder,False,0.2,1.8,sold,Mayank Dagar,exact,3.0,0.0,0.0,0.0,0.0,0.0,83.0,66.0,1.0,,7.55,True
+2023,Manoj Bhandage,RCB,All-Rounder,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Harpreet Singh Bhatia,PBKS,Batter,False,0.2,0.4,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Piyush Chawla,MI,Bowler,False,0.5,0.5,sold,PP Chawla,surname+initial,16.0,25.0,22.0,1.0,1.0,2.0,495.0,366.0,22.0,113.6,8.11,True
+2023,Amit Mishra,LSG,Bowler,False,0.5,0.5,sold,A Mishra,surname+initial,7.0,19.0,30.0,2.0,0.0,1.0,149.0,114.0,7.0,63.3,7.84,True
+2023,Kyle Jamieson,CSK,All-Rounder,True,1.0,1.0,sold,KA Jamieson,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Daniel Sams,LSG,All-Rounder,True,0.75,0.75,sold,DR Sams,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Romario Shepherd,LSG,Bowler,True,0.5,0.5,sold,R Shepherd,surname+initial,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,True
+2023,Will Jacks,RCB,All-Rounder,True,1.5,3.2,sold,WG Jacks,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Manish Pandey,DC,Batter,False,1.0,2.4,sold,MK Pandey,surname+initial,9.0,160.0,146.0,15.0,3.0,9.0,0.0,0.0,0.0,109.6,,True
+2023,Himanshu Sharma,RCB,Bowler,False,0.2,0.2,sold,H Sharma,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,28.0,18.0,0.0,,9.33,True
+2023,Mukesh Kumar,DC,Bowler,False,0.2,5.5,sold,Mukesh Kumar,exact,10.0,7.0,9.0,0.0,0.0,0.0,326.0,186.0,7.0,77.8,10.52,True
+2023,Shivam Mavi,GT,Bowler,False,0.4,6.0,sold,Shivam Mavi,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,N Jagadeesan,KKR,Wicketkeeper,False,0.2,0.9,sold,N Jagadeesan,exact,6.0,89.0,81.0,14.0,1.0,6.0,0.0,0.0,0.0,109.9,,True
+2023,Yash Thakur,LSG,Bowler,False,0.2,0.45,sold,Yash Thakur,exact,9.0,0.0,0.0,0.0,0.0,0.0,289.0,191.0,13.0,,9.08,True
+2023,Vaibhav Arora,KKR,All-Rounder,False,0.2,0.6,sold,VG Arora,surname+initial,5.0,3.0,2.0,0.0,0.0,0.0,146.0,96.0,5.0,150.0,9.12,True
+2023,Upendra Yadav,SRH,Wicketkeeper,False,0.2,0.25,sold,UT Yadav,surname+initial,8.0,19.0,18.0,1.0,0.0,2.0,189.0,114.0,1.0,105.6,9.95,True
+2023,Srikar Bharat,GT,Wicketkeeper,False,0.2,1.2,sold,KS Bharat,last_name_unique,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Sanvir Singh,SRH,All-Rounder,False,0.2,0.2,sold,Sanvir Singh,exact,2.0,11.0,9.0,1.0,1.0,1.0,0.0,0.0,0.0,122.2,,True
+2023,Nishant Sindhu,CSK,All-Rounder,False,0.2,0.6,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Samarth Vyas,SRH,All-Rounder,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Vivrant Sharma,SRH,All-Rounder,False,0.2,2.6,sold,Vivrant Sharma,exact,2.0,69.0,47.0,9.0,2.0,1.0,37.0,18.0,0.0,146.8,12.33,True
+2023,Shaik Rasheed,CSK,Batter,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Odean Smith,GT,All-Rounder,True,0.5,0.5,sold,OF Smith,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Kane Williamson,GT,Batter,True,2.0,2.0,sold,KS Williamson,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Ajinkya Rahane,CSK,Batter,False,0.5,0.5,sold,AM Rahane,surname+initial,11.0,326.0,189.0,24.0,16.0,10.0,0.0,0.0,0.0,172.5,,True
+2023,Mayank Agarwal,SRH,Batter,False,1.0,8.25,sold,MA Agarwal,surname+initial,10.0,270.0,210.0,29.0,6.0,10.0,0.0,0.0,0.0,128.6,,True
+2023,Jason Holder,RR,All-Rounder,True,2.0,5.75,sold,JO Holder,surname+initial,8.0,12.0,11.0,0.0,1.0,2.0,284.0,171.0,4.0,109.1,9.96,True
+2023,Ishant Sharma,DC,Bowler,False,0.5,0.5,sold,I Sharma,surname+initial,8.0,1.0,1.0,0.0,0.0,0.0,206.0,150.0,10.0,100.0,8.24,True
+2023,Jaydev Unadkat,LSG,Bowler,False,0.5,0.5,sold,JD Unadkat,surname+initial,3.0,9.0,7.0,1.0,0.0,1.0,92.0,48.0,0.0,128.6,11.5,True
+2023,Mayank Markande,SRH,Bowler,False,0.5,0.5,sold,M Markande,surname+initial,10.0,21.0,13.0,2.0,1.0,0.0,300.0,228.0,12.0,161.5,7.89,True
+2023,Nicholas Pooran,LSG,Wicketkeeper,True,2.0,16.0,sold,N Pooran,surname+initial,15.0,358.0,207.0,26.0,26.0,12.0,0.0,0.0,0.0,172.9,,True
+2023,Adil Rashid,SRH,Bowler,True,2.0,2.0,sold,AU Rashid,surname+initial,2.0,22.0,16.0,2.0,1.0,2.0,56.0,42.0,2.0,137.5,8.0,True
+2023,Jhye Richardson,MI,Bowler,True,1.5,1.5,sold,JA Richardson,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Reece Topley,RCB,Bowler,True,0.75,1.9,sold,RJW Topley,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,14.0,12.0,1.0,,7.0,True
+2023,Philip Salt,DC,Batter,True,2.0,2.0,sold,PD Salt,surname+initial,9.0,218.0,133.0,24.0,10.0,8.0,0.0,0.0,0.0,163.9,,True
+2023,Heinrich Klaasen,SRH,Wicketkeeper,True,1.0,5.25,sold,H Klaasen,surname+initial,11.0,448.0,253.0,32.0,25.0,9.0,0.0,0.0,0.0,177.1,,True
+2023,Ben Stokes,CSK,All-Rounder,True,2.0,16.25,sold,BA Stokes,surname+initial,2.0,15.0,14.0,2.0,0.0,2.0,18.0,6.0,0.0,107.1,18.0,True
+2023,Cameron Green,MI,All-Rounder,True,2.0,17.5,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Sikandar Raza,PBKS,All-Rounder,True,0.5,0.5,sold,Sikandar Raza,exact,7.0,139.0,98.0,10.0,6.0,5.0,118.0,73.0,3.0,141.8,9.7,True
+2023,Sam Curran,PBKS,All-Rounder,True,2.0,18.5,sold,SM Curran,surname+initial,14.0,276.0,203.0,20.0,13.0,10.0,489.0,287.0,10.0,136.0,10.22,True
+2023,Harry Brook,SRH,Batter,True,1.5,13.25,sold,HC Brook,surname+initial,11.0,190.0,154.0,23.0,4.0,9.0,0.0,0.0,0.0,123.4,,True
+2023,Rajat Patidar,RCB,Batter,False,,0.2,retained,RM Patidar,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Matheesha Pathirana,CSK,Bowler,True,,0.2,retained,M Pathirana,surname+initial,12.0,0.0,0.0,0.0,0.0,0.0,371.0,278.0,19.0,,8.01,True
+2023,Tristan Stubbs,MI,Wicketkeeper,True,,0.2,retained,T Stubbs,surname+initial,2.0,25.0,31.0,2.0,0.0,2.0,14.0,12.0,1.0,80.6,7.0,True
+2023,Ravi Bishnoi,LSG,Bowler,False,,4.0,retained,Ravi Bishnoi,exact,14.0,20.0,27.0,1.0,0.0,3.0,391.0,303.0,16.0,74.1,7.74,True
+2023,Yash Dhull,DC,Batter,False,,0.5,retained,YV Dhull,surname+initial,3.0,16.0,23.0,1.0,0.0,3.0,0.0,0.0,0.0,69.6,,True
+2023,Akash Madhwal,MI,Bowler,False,,0.2,retained,Akash Madhwal,exact,8.0,0.0,0.0,0.0,0.0,0.0,219.0,153.0,14.0,,8.59,True
+2023,Kumar Kartikeya,MI,All-Rounder,False,,0.2,retained,K Kartikeya,surname+initial,8.0,6.0,7.0,1.0,0.0,1.0,227.0,156.0,5.0,85.7,8.73,True
+2023,Shahbaz Ahmed,RCB,All-Rounder,False,,2.4,retained,Shahbaz Ahmed,exact,8.0,42.0,39.0,3.0,1.0,4.0,95.0,42.0,1.0,107.7,13.57,True
+2023,Rahul Tripathi,SRH,Batter,False,,8.5,retained,RA Tripathi,surname+initial,13.0,273.0,213.0,29.0,10.0,12.0,0.0,0.0,0.0,128.2,,True
+2023,Abhinav Manohar Sadarangani,GT,Batter,False,,2.6,retained,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Harpreet Brar,PBKS,Bowler,False,,3.8,retained,Harpreet Brar,exact,11.0,52.0,41.0,5.0,2.0,6.0,218.0,163.0,9.0,126.8,8.02,True
+2023,Dewald Brevis,MI,Batter,True,,3.0,retained,D Brevis,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Deepak Hooda,LSG,All-Rounder,False,,5.75,retained,DJ Hooda,surname+initial,12.0,84.0,90.0,3.0,2.0,11.0,8.0,6.0,0.0,93.3,8.0,True
+2023,Dhruv Jurel,RR,Wicketkeeper,False,,0.2,retained,Dhruv Jurel,exact,11.0,152.0,88.0,11.0,9.0,7.0,0.0,0.0,0.0,172.7,,True
+2023,Mukesh Choudhary,CSK,Bowler,False,,0.2,retained,Mukesh Choudhary,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Tim David,MI,All-Rounder,True,,8.25,retained,TH David,surname+initial,15.0,231.0,146.0,12.0,15.0,9.0,0.0,0.0,0.0,158.2,,True
+2023,Atharva Taide,PBKS,All-Rounder,False,,0.2,retained,Atharva Taide,exact,7.0,186.0,129.0,20.0,6.0,7.0,0.0,0.0,0.0,144.2,,True
+2023,Praveen Dubey,DC,Bowler,False,,0.5,retained,P Dubey,surname+initial,1.0,16.0,20.0,2.0,0.0,1.0,19.0,18.0,1.0,80.0,6.33,True
+2023,Sai Sudharsan,GT,Batter,False,,0.2,retained,B Sai Sudharsan,last_name_unique,8.0,362.0,256.0,33.0,12.0,7.0,0.0,0.0,0.0,141.4,,True
+2023,Sarfaraz Khan,DC,Batter,False,,0.2,retained,SN Khan,surname+initial,4.0,53.0,62.0,4.0,1.0,4.0,0.0,0.0,0.0,85.5,,True
+2023,Kuldeep Yadav,DC,Bowler,False,,2.0,retained,Kuldeep Yadav,exact,14.0,31.0,48.0,2.0,0.0,2.0,361.0,294.0,10.0,64.6,7.37,True
+2023,Subhranshu Senapati,CSK,Batter,False,,0.2,retained,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Obed McCoy,RR,Bowler,True,,0.75,retained,OC McCoy,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,13.0,6.0,0.0,,13.0,True
+2023,Siddarth Kaul,RCB,Bowler,False,,0.75,retained,S Kaul,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Fazalhaq Farooqi,SRH,Bowler,True,,0.5,retained,Fazalhaq Farooqi,exact,4.0,1.0,5.0,0.0,0.0,0.0,117.0,80.0,4.0,20.0,8.78,True
+2023,Shahrukh Khan,PBKS,Batter,False,,9.0,retained,SN Khan,surname+initial,4.0,53.0,62.0,4.0,1.0,4.0,0.0,0.0,0.0,85.5,,True
+2023,Kamlesh Nagarkoti,DC,Bowler,False,,1.1,retained,KL Nagarkoti,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Riyan Parag,RR,All-Rounder,False,,3.8,retained,R Parag,surname+initial,7.0,78.0,66.0,4.0,5.0,6.0,0.0,0.0,0.0,118.2,,True
+2023,Abhishek Sharma,SRH,All-Rounder,False,,6.5,retained,Abhishek Sharma,exact,11.0,226.0,157.0,28.0,6.0,11.0,124.0,72.0,2.0,143.9,10.33,True
+2023,Rahul Tewatia,GT,All-Rounder,False,,9.0,retained,R Tewatia,surname+initial,10.0,87.0,57.0,3.0,7.0,4.0,15.0,13.0,0.0,152.6,6.92,True
+2023,Anuj Rawat,RCB,Wicketkeeper,False,,3.4,retained,Anuj Rawat,exact,7.0,91.0,71.0,6.0,4.0,3.0,0.0,0.0,0.0,128.2,,True
+2023,Rahul Chahar,PBKS,Bowler,False,,5.25,retained,RD Chahar,surname+initial,14.0,0.0,9.0,0.0,0.0,2.0,385.0,298.0,8.0,0.0,7.75,True
+2023,Yuzvendra Chahal,RR,Bowler,False,,6.5,retained,YS Chahal,surname+initial,14.0,0.0,0.0,0.0,0.0,0.0,432.0,317.0,21.0,,8.18,True
+2023,Umesh Yadav,KKR,Bowler,False,,2.0,retained,UT Yadav,surname+initial,8.0,19.0,18.0,1.0,0.0,2.0,189.0,114.0,1.0,105.6,9.95,True
+2023,Mark Wood,LSG,Bowler,True,,7.5,retained,MA Wood,surname+initial,4.0,11.0,5.0,1.0,1.0,1.0,130.0,96.0,11.0,220.0,8.12,True
+2023,Jitesh Sharma,PBKS,Wicketkeeper,False,,0.2,retained,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Nathan Ellis,PBKS,Bowler,True,,0.75,retained,NT Ellis,surname+initial,10.0,1.0,7.0,0.0,0.0,2.0,339.0,228.0,13.0,14.3,8.92,True
+2023,Prabhsimran Singh,PBKS,Wicketkeeper,False,,0.6,retained,Pankaj Singh,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Ramandeep Singh,MI,Batter,False,,0.2,retained,Ramandeep Singh,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Mustafizur Rahman,DC,Bowler,True,,2.0,retained,Mustafizur Rahman,exact,2.0,1.0,1.0,0.0,0.0,0.0,79.0,42.0,1.0,100.0,11.29,True
+2023,Suyash Prabhudessai,RCB,Batter,False,,0.3,retained,SS Prabhudessai,surname+initial,4.0,35.0,29.0,1.0,2.0,4.0,0.0,0.0,0.0,120.7,,True
+2023,Tushar Deshpande,CSK,Bowler,False,,0.2,retained,TU Deshpande,surname+initial,16.0,0.0,1.0,0.0,0.0,0.0,563.0,342.0,21.0,0.0,9.88,True
+2023,Avesh Khan,LSG,Bowler,False,,10.0,retained,Avesh Khan,exact,9.0,0.0,1.0,0.0,0.0,0.0,283.0,174.0,8.0,0.0,9.76,True
+2023,Ravisrinivasan Sai Kishore,GT,Bowler,False,,3.0,retained,R Sai Kishore,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Glenn Phillips,SRH,Wicketkeeper,True,,1.5,retained,GD Phillips,surname+initial,5.0,39.0,22.0,2.0,4.0,5.0,20.0,18.0,1.0,177.3,6.67,True
+2023,Mitchell Santner,CSK,All-Rounder,True,,1.9,retained,MJ Santner,surname+initial,3.0,2.0,4.0,0.0,0.0,0.0,81.0,72.0,3.0,50.0,6.75,True
+2023,Ayush Badoni,LSG,All-Rounder,False,,0.2,retained,A Badoni,surname+initial,12.0,238.0,172.0,13.0,12.0,10.0,0.0,1.0,0.0,138.4,0.0,True
+2023,Rishi Dhawan,PBKS,All-Rounder,False,,0.55,retained,R Dhawan,surname+initial,5.0,20.0,12.0,1.0,1.0,2.0,60.0,42.0,1.0,166.7,8.57,True
+2023,Tim Southee,KKR,Bowler,True,,1.5,retained,TG Southee,surname+initial,2.0,0.0,0.0,0.0,0.0,0.0,79.0,36.0,2.0,,13.17,True
+2023,Jofra Archer,MI,Bowler,True,,8.0,retained,JC Archer,surname+initial,5.0,4.0,4.0,0.0,0.0,0.0,190.0,120.0,2.0,100.0,9.5,True
+2023,Alzarri Joseph,GT,Bowler,True,,2.4,retained,AS Joseph,surname+initial,7.0,7.0,12.0,1.0,0.0,0.0,225.0,144.0,7.0,58.3,9.38,True
+2023,Rovman Powell,DC,Batter,True,,2.8,retained,R Powell,surname+initial,3.0,7.0,9.0,1.0,0.0,3.0,18.0,12.0,1.0,77.8,9.0,True
+2023,Bhanuka Rajapaksa,PBKS,Batter,True,,0.5,retained,PBB Rajapaksa,last_name_unique,4.0,71.0,62.0,6.0,2.0,4.0,0.0,0.0,0.0,114.5,,True
+2023,Devon Conway,CSK,Batter,True,,1.0,retained,DP Conway,surname+initial,15.0,672.0,481.0,77.0,18.0,13.0,0.0,0.0,0.0,139.7,,True
+2023,Prashant Solanki,CSK,Bowler,False,,1.2,retained,PH Solanki,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Finn Allen,RCB,Wicketkeeper,True,,0.8,retained,FA Allen,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Mayank Yadav,LSG,Bowler,False,,0.2,retained,MP Yadav,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Pradeep Sangwan,GT,Bowler,False,,0.2,retained,PJ Sangwan,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Mohsin Khan,LSG,Bowler,False,,0.2,retained,Mohsin Khan,exact,4.0,0.0,7.0,0.0,0.0,1.0,107.0,60.0,3.0,0.0,10.7,True
+2023,Simarjeet Singh,CSK,Bowler,False,,0.2,retained,Simarjeet Singh,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,T Natarajan,SRH,Bowler,False,,4.0,retained,T Natarajan,exact,12.0,0.0,0.0,0.0,0.0,0.0,410.0,270.0,10.0,,9.11,True
+2023,Kuldeep Sen,RR,Bowler,False,,0.2,retained,KR Sen,surname+initial,2.0,0.0,0.0,0.0,0.0,0.0,28.0,18.0,0.0,,9.33,True
+2023,Kartik Tyagi,SRH,Bowler,False,,4.0,retained,Kartik Tyagi,exact,3.0,0.0,0.0,0.0,0.0,0.0,92.0,37.0,1.0,,14.92,True
+2023,Bhuvneshwar Kumar,SRH,Bowler,False,,4.2,retained,B Kumar,surname+initial,14.0,42.0,47.0,4.0,0.0,3.0,425.0,306.0,16.0,89.4,8.33,True
+2023,Prasidh Krishna,RR,Bowler,False,,10.0,retained,M Prasidh Krishna,last_name_unique,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Noor Ahmad,GT,Bowler,True,,0.3,retained,Noor Ahmad,exact,13.0,8.0,9.0,1.0,0.0,2.0,369.0,283.0,16.0,88.9,7.82,True
+2023,Josh Hazlewood,RCB,Bowler,True,,7.75,retained,JR Hazlewood,surname+initial,3.0,1.0,2.0,0.0,0.0,0.0,76.0,54.0,3.0,50.0,8.44,True
+2023,Yash Dayal,GT,Bowler,False,,3.2,retained,Yash Dayal,exact,5.0,0.0,0.0,0.0,0.0,0.0,165.0,84.0,2.0,,11.79,True
+2023,KC Cariappa,RR,Bowler,False,,0.3,retained,KC Cariappa,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Tilak Varma,MI,Batter,False,,1.7,retained,Tilak Varma,exact,11.0,343.0,209.0,26.0,23.0,8.0,7.0,6.0,0.0,164.1,7.0,True
+2023,Anukul Roy,KKR,All-Rounder,False,,0.2,retained,AS Roy,surname+initial,4.0,23.0,19.0,3.0,0.0,2.0,65.0,48.0,3.0,121.1,8.12,True
+2023,Deepak Chahar,CSK,Bowler,False,,14.0,retained,DL Chahar,surname+initial,10.0,1.0,2.0,0.0,0.0,0.0,297.0,204.0,13.0,50.0,8.74,True
+2023,Ripal Patel,DC,All-Rounder,False,,0.2,retained,RV Patel,surname+initial,4.0,49.0,43.0,3.0,1.0,3.0,0.0,0.0,0.0,114.0,,True
+2023,Matthew Wade,GT,Wicketkeeper,True,,2.4,retained,MS Wade,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Wriddhiman Saha,GT,Wicketkeeper,False,,1.9,retained,WP Saha,surname+initial,17.0,371.0,287.0,47.0,8.0,16.0,0.0,0.0,0.0,129.3,,True
+2023,Vicky Ostwal,DC,All-Rounder,False,,0.2,retained,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Ambati Rayudu,CSK,Wicketkeeper,False,,6.75,retained,AT Rayudu,surname+initial,12.0,158.0,113.0,10.0,9.0,10.0,0.0,0.0,0.0,139.8,,True
+2023,Darshan Nalkande,GT,Bowler,False,,0.2,retained,DG Nalkande,surname+initial,1.0,0.0,1.0,0.0,0.0,1.0,44.0,24.0,1.0,0.0,11.0,True
+2023,Ishan Kishan,MI,Wicketkeeper,False,,15.25,retained,Ishan Kishan,exact,15.0,454.0,318.0,54.0,18.0,15.0,0.0,0.0,0.0,142.8,,True
+2023,Mahipal Lomror,RCB,All-Rounder,False,,0.95,retained,MK Lomror,surname+initial,10.0,135.0,97.0,9.0,8.0,8.0,17.0,12.0,0.0,139.2,8.5,True
+2023,Dinesh Karthik,RCB,Wicketkeeper,False,,5.5,retained,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Rajvardhan Hangargekar,CSK,Bowler,False,,1.5,retained,RS Hangargekar,surname+initial,2.0,0.0,0.0,0.0,0.0,0.0,60.0,36.0,3.0,,10.0,True
+2023,Jonny Bairstow,PBKS,Wicketkeeper,True,,6.75,retained,JM Bairstow,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Washington Sundar,SRH,All-Rounder,False,,8.75,retained,Washington Sundar,exact,7.0,60.0,60.0,6.0,0.0,4.0,146.0,106.0,3.0,100.0,8.26,True
+2023,Raj Bawa,PBKS,Bowler,False,,2.0,retained,RA Bawa,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Manan Vohra,LSG,Batter,False,,0.2,retained,M Vohra,surname+initial,1.0,10.0,11.0,1.0,0.0,1.0,0.0,0.0,0.0,90.9,,True
+2023,Nitish Rana,KKR,All-Rounder,False,,8.0,retained,N Rana,surname+initial,14.0,413.0,293.0,39.0,20.0,13.0,75.0,53.0,3.0,141.0,8.49,True
+2023,Rinku Singh,KKR,Batter,False,,0.55,retained,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Harshal Patel,RCB,Bowler,False,,10.75,retained,HV Patel,surname+initial,13.0,6.0,6.0,0.0,1.0,2.0,453.0,283.0,14.0,100.0,9.6,True
+2023,Krunal Pandya,LSG,All-Rounder,False,,8.25,retained,KH Pandya,surname+initial,15.0,188.0,165.0,15.0,6.0,11.0,313.0,252.0,9.0,113.9,7.45,True
+2023,Maheesh Theekshana,CSK,Bowler,True,,0.7,retained,M Theekshana,surname+initial,13.0,0.0,0.0,0.0,0.0,0.0,392.0,294.0,11.0,,8.0,True
+2023,Mitchell Marsh,DC,All-Rounder,True,,6.5,retained,MR Marsh,surname+initial,9.0,128.0,97.0,11.0,7.0,9.0,170.0,121.0,12.0,132.0,8.43,True
+2023,Karn Sharma,RCB,Bowler,False,,0.5,retained,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Chetan Sakariya,DC,Bowler,False,,4.2,retained,C Sakariya,surname+initial,2.0,4.0,6.0,1.0,0.0,1.0,89.0,48.0,3.0,66.7,11.12,True
+2023,Navdeep Saini,RR,Bowler,False,,2.6,retained,Navdeep Saini,exact,1.0,0.0,0.0,0.0,0.0,0.0,40.0,24.0,3.0,,10.0,True
+2023,Lungi Ngidi,DC,Bowler,True,,0.5,retained,L Ngidi,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Khaleel Ahmed,DC,Bowler,False,,5.25,retained,KK Ahmed,surname+initial,9.0,0.0,0.0,0.0,0.0,0.0,301.0,198.0,9.0,,9.12,True
+2023,Jayant Yadav,GT,All-Rounder,False,,1.7,retained,J Yadav,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,26.0,24.0,0.0,,6.5,True
+2023,Vijay Shankar,GT,All-Rounder,False,,1.4,retained,V Shankar,surname+initial,10.0,301.0,188.0,27.0,15.0,8.0,0.0,0.0,0.0,160.1,,True
+2023,Liam Livingstone,PBKS,All-Rounder,True,,11.5,retained,LS Livingstone,surname+initial,9.0,279.0,171.0,20.0,19.0,8.0,94.0,42.0,2.0,163.2,13.43,True
+2023,David Willey,RCB,All-Rounder,True,,2.0,retained,DJ Willey,surname+initial,4.0,35.0,32.0,4.0,0.0,0.0,105.0,90.0,3.0,109.4,7.0,True
+2023,Marco Jansen,SRH,All-Rounder,True,,4.2,retained,M Jansen,surname+initial,8.0,39.0,43.0,4.0,0.0,3.0,266.0,163.0,10.0,90.7,9.79,True
+2023,Krishnappa Gowtham,LSG,All-Rounder,False,,0.9,retained,K Gowtham,surname+initial,7.0,61.0,37.0,2.0,5.0,4.0,118.0,96.0,3.0,164.9,7.38,True
+2023,Karan Sharma,LSG,All-Rounder,False,,0.2,retained,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Shivam Dube,CSK,All-Rounder,False,,4.0,retained,S Dube,surname+initial,14.0,418.0,264.0,12.0,35.0,11.0,0.0,0.0,0.0,158.3,,True
+2023,Mohd Arshad Khan,MI,Bowler,False,,0.2,retained,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Lalit Yadav,DC,All-Rounder,False,,0.65,retained,Lalit Yadav,exact,6.0,66.0,59.0,8.0,0.0,5.0,118.0,78.0,2.0,111.9,9.08,True
+2023,Baltej Singh,PBKS,All-Rounder,False,,0.2,retained,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Aiden Markram,SRH,Batter,True,,2.6,retained,AK Markram,surname+initial,13.0,248.0,197.0,18.0,8.0,11.0,70.0,49.0,1.0,125.9,8.57,True
+2023,Kyle Mayers,LSG,All-Rounder,True,,0.5,retained,KR Mayers,surname+initial,13.0,379.0,263.0,38.0,22.0,13.0,59.0,42.0,0.0,144.1,8.43,True
+2023,Arjun Tendulkar,MI,All-Rounder,False,,0.3,retained,Arjun Tendulkar,exact,4.0,13.0,9.0,0.0,1.0,1.0,92.0,59.0,3.0,144.4,9.36,True
+2023,Hrithik Shokeen,MI,All-Rounder,False,,0.2,retained,HR Shokeen,surname+initial,8.0,23.0,17.0,4.0,0.0,1.0,187.0,114.0,3.0,135.3,9.84,True
+2023,Kuldip Yadav,RR,Bowler,False,,0.2,retained,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Wanindu Hasaranga,RCB,All-Rounder,True,,10.75,retained,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Devdutt Padikkal,RR,Batter,False,,7.75,retained,D Padikkal,surname+initial,11.0,261.0,200.0,31.0,6.0,10.0,0.0,0.0,0.0,130.5,,True
+2023,David Miller,GT,Batter,True,,3.0,retained,DA Miller,surname+initial,13.0,259.0,178.0,18.0,13.0,8.0,0.0,0.0,0.0,145.5,,True
+2023,Shimron Hetmyer,RR,Batter,True,,8.5,retained,SO Hetmyer,surname+initial,13.0,299.0,197.0,12.0,23.0,8.0,0.0,0.0,0.0,151.8,,True
+2023,David Warner,DC,Batter,True,,6.25,retained,DA Warner,surname+initial,14.0,516.0,392.0,69.0,10.0,14.0,0.0,0.0,0.0,131.6,,True
+2023,Mohammed Shami,GT,Bowler,False,,6.25,retained,Mohammed Shami,exact,17.0,5.0,6.0,1.0,0.0,2.0,521.0,391.0,28.0,83.3,7.99,True
+2023,Kagiso Rabada,PBKS,Bowler,True,,9.25,retained,K Rabada,surname+initial,6.0,0.0,2.0,0.0,0.0,1.0,231.0,139.0,7.0,0.0,9.97,True
+2023,Shreyas Iyer,KKR,Batter,False,,12.25,retained,SS Iyer,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Faf du Plessis,RCB,Batter,True,,7.0,retained,F du Plessis,surname+initial,14.0,730.0,475.0,60.0,36.0,13.0,0.0,0.0,0.0,153.7,,True
+2023,Shikhar Dhawan,PBKS,Batter,False,,8.25,retained,S Dhawan,surname+initial,11.0,373.0,261.0,49.0,12.0,9.0,0.0,0.0,0.0,142.9,,True
+2023,Quinton de Kock,LSG,Wicketkeeper,True,,6.75,retained,Q de Kock,surname+initial,4.0,143.0,102.0,10.0,8.0,4.0,0.0,0.0,0.0,140.2,,True
+2023,Trent Boult,RR,Bowler,True,,8.0,retained,TA Boult,surname+initial,10.0,16.0,14.0,1.0,1.0,1.0,312.0,228.0,13.0,114.3,8.21,True
+2023,Umran Malik,SRH,Bowler,False,,4.0,retained,Umran Malik,exact,8.0,19.0,8.0,1.0,2.0,1.0,217.0,120.0,5.0,237.5,10.85,True
+2023,Abdul Samad,SRH,All-Rounder,False,,4.0,retained,Abdul Samad,exact,8.0,169.0,128.0,10.0,11.0,4.0,0.0,0.0,0.0,132.0,,True
+2023,Ravichandran Ashwin,RR,All-Rounder,False,,5.0,retained,R Ashwin,surname+initial,13.0,67.0,51.0,5.0,3.0,6.0,368.0,294.0,14.0,131.4,7.51,True
+2023,Mohammed Siraj,RCB,Bowler,False,,7.0,retained,Mohammed Siraj,exact,14.0,1.0,2.0,0.0,0.0,1.0,375.0,300.0,19.0,50.0,7.5,True
+2023,Glenn Maxwell,RCB,All-Rounder,True,,11.0,retained,GJ Maxwell,surname+initial,14.0,400.0,218.0,29.0,31.0,12.0,94.0,62.0,3.0,183.5,9.1,True
+2023,Virat Kohli,RCB,Batter,False,,15.0,retained,V Kohli,surname+initial,14.0,639.0,457.0,65.0,16.0,12.0,0.0,0.0,0.0,139.8,,True
+2023,Yashasvi Jaiswal,RR,Batter,False,,4.0,retained,YBK Jaiswal,surname+initial,14.0,625.0,382.0,83.0,26.0,13.0,0.0,0.0,0.0,163.6,,True
+2023,Jos Buttler,RR,Wicketkeeper,True,,10.0,retained,JC Buttler,surname+initial,14.0,392.0,282.0,42.0,14.0,14.0,0.0,0.0,0.0,139.0,,True
+2023,Sanju Samson,RR,Wicketkeeper,False,,14.0,retained,SV Samson,surname+initial,14.0,362.0,236.0,25.0,24.0,12.0,0.0,0.0,0.0,153.4,,True
+2023,Arshdeep Singh,PBKS,Bowler,False,,4.0,retained,Arshdeep Singh,exact,14.0,2.0,2.0,0.0,0.0,0.0,493.0,305.0,17.0,100.0,9.7,True
+2023,Suryakumar Yadav,MI,Batter,False,,8.0,retained,SA Yadav,surname+initial,16.0,605.0,334.0,65.0,28.0,14.0,0.0,0.0,0.0,181.1,,True
+2023,Jasprit Bumrah,MI,Bowler,False,,12.0,retained,JJ Bumrah,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Akash Deep,RCB,Bowler,False,,0.2,retained,Akash Deep,exact,2.0,17.0,8.0,2.0,1.0,1.0,59.0,30.0,1.0,212.5,11.8,True
+2023,Rohit Sharma,MI,Batter,False,,16.0,retained,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Dwaine Pretorius,CSK,All-Rounder,True,,0.5,retained,D Pretorius,surname+initial,1.0,0.0,0.0,0.0,0.0,0.0,28.0,24.0,0.0,,7.0,True
+2023,KL Rahul,LSG,Wicketkeeper,False,,17.0,retained,KL Rahul,exact,9.0,274.0,242.0,28.0,4.0,8.0,0.0,0.0,0.0,113.2,,True
+2023,Marcus Stoinis,LSG,All-Rounder,True,,9.2,retained,MP Stoinis,surname+initial,15.0,408.0,272.0,28.0,27.0,13.0,100.0,65.0,5.0,150.0,9.23,True
+2023,Sunil Narine,KKR,All-Rounder,True,,6.0,retained,SP Narine,surname+initial,14.0,21.0,25.0,2.0,1.0,7.0,383.0,288.0,11.0,84.0,7.98,True
+2023,Venkatesh Iyer,KKR,All-Rounder,False,,8.0,retained,VR Iyer,surname+initial,14.0,404.0,277.0,32.0,21.0,14.0,0.0,0.0,0.0,145.8,,True
+2023,Ravindra Jadeja,CSK,All-Rounder,False,,16.0,retained,RA Jadeja,surname+initial,16.0,190.0,133.0,11.0,9.0,8.0,431.0,342.0,20.0,142.9,7.56,True
+2023,Varun Chakaravarthy,KKR,Bowler,False,,8.0,retained,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Andre Russell,KKR,All-Rounder,True,,12.0,retained,AD Russell,surname+initial,14.0,227.0,156.0,13.0,18.0,11.0,172.0,91.0,7.0,145.5,11.34,True
+2023,Shubman Gill,GT,Batter,False,,8.0,retained,Shubman Gill,exact,17.0,890.0,564.0,85.0,33.0,15.0,0.0,0.0,0.0,157.8,,True
+2023,Rashid Khan,GT,Bowler,True,,15.0,retained,Rashid Khan,exact,17.0,130.0,60.0,8.0,13.0,4.0,552.0,402.0,27.0,216.7,8.24,True
+2023,Hardik Pandya,GT,All-Rounder,False,,15.0,retained,HH Pandya,surname+initial,15.0,346.0,253.0,26.0,15.0,11.0,228.0,150.0,3.0,136.8,9.12,True
+2023,Anrich Nortje,DC,Bowler,True,,6.5,retained,A Nortje,surname+initial,10.0,37.0,29.0,6.0,0.0,3.0,364.0,240.0,10.0,127.6,9.1,True
+2023,Prithvi Shaw,DC,Batter,False,,7.5,retained,PP Shaw,surname+initial,8.0,106.0,85.0,16.0,1.0,8.0,0.0,0.0,0.0,124.7,,True
+2023,MS Dhoni,CSK,Wicketkeeper,False,,12.0,retained,MS Dhoni,exact,12.0,104.0,57.0,3.0,10.0,4.0,0.0,0.0,0.0,182.5,,True
+2023,Moeen Ali,CSK,All-Rounder,True,,8.0,retained,MM Ali,surname+initial,13.0,124.0,91.0,12.0,6.0,7.0,195.0,156.0,9.0,136.3,7.5,True
+2023,Ruturaj Gaikwad,CSK,Batter,False,,6.0,retained,RD Gaikwad,surname+initial,15.0,590.0,400.0,46.0,30.0,14.0,0.0,0.0,0.0,147.5,,True
+2023,Rishabh Pant,DC,Wicketkeeper,False,,16.0,retained,RR Pant,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2023,Axar Patel,DC,All-Rounder,False,,9.0,retained,AR Patel,surname+initial,14.0,283.0,203.0,21.0,15.0,10.0,338.0,282.0,11.0,139.4,7.19,True
+2024,Spencer Johnson,GT,Bowler,,0.5,10.0,sold,SH Johnson,surname+initial,5.0,6.0,7.0,1.0,0.0,0.0,151.0,96.0,4.0,85.7,9.44,True
+2024,Shahrukh Khan,GT,All-Rounder,False,0.4,7.4,sold,SN Khan,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Umesh Yadav,GT,Bowler,False,2.0,5.8,sold,UT Yadav,surname+initial,7.0,12.0,15.0,0.0,1.0,1.0,210.0,126.0,8.0,80.0,10.0,True
+2024,Robin Minz,GT,Wicketkeeper,,0.2,3.6,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Sushant Mishra,GT,Bowler,,0.2,2.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Kartik Tyagi,GT,Bowler,False,0.2,0.6,sold,Kartik Tyagi,exact,1.0,0.0,0.0,0.0,0.0,0.0,51.0,24.0,0.0,,12.75,True
+2024,Azmatullah Omarzai,GT,All-Rounder,,0.5,0.5,sold,Azmatullah Omarzai,exact,7.0,42.0,33.0,2.0,2.0,4.0,186.0,126.0,4.0,127.3,8.86,True
+2024,Manav Suthar,GT,Bowler,,0.2,0.2,sold,MJ Suthar,surname+initial,1.0,1.0,2.0,0.0,0.0,1.0,26.0,12.0,0.0,50.0,13.0,True
+2024,Daryl Mitchell,CSK,All-Rounder,True,1.0,14.0,sold,DJ Mitchell,surname+initial,13.0,318.0,223.0,27.0,10.0,11.0,70.0,36.0,1.0,142.6,11.67,True
+2024,Sameer Rizvi,CSK,Batter,,0.2,8.4,sold,Sameer Rizvi,exact,5.0,51.0,43.0,4.0,2.0,4.0,0.0,0.0,0.0,118.6,,True
+2024,Shardul Thakur,CSK,All-Rounder,False,2.0,4.0,sold,SN Thakur,surname+initial,9.0,21.0,17.0,2.0,1.0,1.0,309.0,190.0,5.0,123.5,9.76,True
+2024,Mustafizur Rahman,CSK,Bowler,True,2.0,2.0,sold,Mustafizur Rahman,exact,9.0,0.0,0.0,0.0,0.0,0.0,317.0,207.0,14.0,,9.19,True
+2024,Rachin Ravindra,CSK,All-Rounder,,0.5,1.8,sold,R Ravindra,surname+initial,10.0,222.0,138.0,22.0,12.0,10.0,7.0,12.0,0.0,160.9,3.5,True
+2024,Avanish Rao Aravelly,CSK,Wicketkeeper,,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Kumar Kushagra,DC,Wicketkeeper,,0.2,7.2,sold,Kumar Kushagra,exact,3.0,3.0,7.0,0.0,0.0,3.0,0.0,0.0,0.0,42.9,,True
+2024,Jhye Richardson,DC,Bowler,True,1.5,5.0,sold,JA Richardson,surname+initial,1.0,2.0,2.0,0.0,0.0,1.0,40.0,24.0,0.0,100.0,10.0,True
+2024,Harry Brook,DC,Batter,True,2.0,4.0,sold,HC Brook,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Sumit Kumar,DC,All-Rounder,,0.2,1.0,sold,Sumit Kumar,exact,3.0,18.0,24.0,2.0,1.0,2.0,38.0,20.0,0.0,75.0,11.4,True
+2024,Shai Hope,DC,Wicketkeeper,,0.75,0.75,sold,SD Hope,surname+initial,9.0,183.0,122.0,12.0,12.0,8.0,0.0,0.0,0.0,150.0,,True
+2024,Tristan Stubbs,DC,Wicketkeeper,True,0.5,0.5,sold,T Stubbs,surname+initial,14.0,378.0,198.0,24.0,26.0,7.0,15.0,12.0,3.0,190.9,7.5,True
+2024,Ricky Bhui,DC,Wicketkeeper,,0.2,0.2,sold,RK Bhui,surname+initial,2.0,3.0,9.0,0.0,0.0,2.0,0.0,0.0,0.0,33.3,,True
+2024,Rasikh Dar,DC,Bowler,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Swastik Chhikara,DC,Batter,,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Mitchell Starc,,Bowler,,2.0,24.75,sold,MA Starc,surname+initial,13.0,9.0,11.0,1.0,0.0,2.0,444.0,251.0,17.0,81.8,10.61,True
+2024,Mujeeb Rahman,,Bowler,,2.0,2.0,sold,Mustafizur Rahman,surname+initial,9.0,0.0,0.0,0.0,0.0,0.0,317.0,207.0,14.0,,9.19,True
+2024,Sherfane Rutherford,,Batter,True,1.5,1.5,sold,SE Rutherford,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Gus Atkinson,,Bowler,,1.0,1.0,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Manish Pandey,,Batter,False,0.5,0.5,sold,MK Pandey,surname+initial,1.0,42.0,31.0,2.0,2.0,1.0,0.0,0.0,0.0,135.5,,True
+2024,K.S. Bharat,,Wicketkeeper,False,0.5,0.5,sold,KS Bharat,last_name_unique,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Chetan Sakariya,,Bowler,False,0.5,0.5,sold,C Sakariya,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Angkrish Raghuvanshi,,Batter,,0.2,0.2,sold,A Raghuvanshi,surname+initial,7.0,163.0,105.0,16.0,8.0,7.0,0.0,0.0,0.0,155.2,,True
+2024,Ramandeep Singh,,All-Rounder,False,0.2,0.2,sold,Ramandeep Singh,exact,9.0,125.0,62.0,5.0,12.0,4.0,9.0,4.0,0.0,201.6,13.5,True
+2024,Sakib Hussain,,Bowler,,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Harshal Patel,PBKS,All-Rounder,False,2.0,11.75,sold,HV Patel,surname+initial,14.0,13.0,19.0,1.0,1.0,3.0,477.0,294.0,24.0,68.4,9.73,True
+2024,Rilee Rossouw,PBKS,Batter,True,2.0,8.0,sold,RR Rossouw,surname+initial,8.0,211.0,116.0,25.0,11.0,8.0,0.0,0.0,0.0,181.9,,True
+2024,Chris Woakes,PBKS,All-Rounder,,2.0,4.2,sold,CR Woakes,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Ashutosh Sharma,PBKS,All-Rounder,,0.2,0.2,sold,Ashutosh Sharma,exact,9.0,189.0,113.0,10.0,15.0,7.0,0.0,0.0,0.0,167.3,,True
+2024,Vishwanath Pratap Singh,PBKS,All-Rounder,,0.2,0.2,sold,V Pratap Singh,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Shashank Singh,PBKS,All-Rounder,False,0.2,0.2,sold,Shashank Singh,exact,14.0,354.0,215.0,28.0,21.0,8.0,5.0,6.0,1.0,164.7,5.0,True
+2024,Tanay Thyagarajann,PBKS,All-Rounder,,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Prince Choudhary,PBKS,Bowler,,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Shivam Mavi,LSG,Bowler,False,0.5,6.4,sold,Shivam Mavi,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,M. Siddharth,LSG,Bowler,,0.2,2.4,sold,M Siddharth,exact,3.0,0.0,0.0,0.0,0.0,0.0,70.0,55.0,1.0,,7.64,True
+2024,David Willey,LSG,All-Rounder,True,2.0,2.0,sold,DJ Willey,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Ashton Turner,LSG,Batter,,1.0,1.0,sold,AJ Turner,surname+initial,2.0,21.0,18.0,0.0,2.0,2.0,0.0,0.0,0.0,116.7,,True
+2024,Mohd. Arshad Khan,LSG,All-Rounder,False,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Arshin Kulkarni,LSG,All-Rounder,,0.2,0.2,sold,AA Kulkarni,surname+initial,2.0,9.0,8.0,2.0,0.0,2.0,0.0,0.0,0.0,112.5,,True
+2024,Gerald Coetzee,MI,All-Rounder,,2.0,5.0,sold,G Coetzee,surname+initial,10.0,14.0,22.0,0.0,1.0,4.0,341.0,201.0,13.0,63.6,10.18,True
+2024,Nuwan Thushara,MI,Bowler,,0.5,4.8,sold,N Thushara,surname+initial,7.0,0.0,0.0,0.0,0.0,0.0,257.0,156.0,8.0,,9.88,True
+2024,Mohammad Nabi,MI,All-Rounder,True,1.5,1.5,sold,Mohammad Nabi,exact,7.0,35.0,31.0,2.0,2.0,4.0,109.0,74.0,2.0,112.9,8.84,True
+2024,Shreyas Gopal,MI,Bowler,False,0.2,0.2,sold,S Gopal,surname+initial,3.0,0.0,0.0,0.0,0.0,0.0,67.0,42.0,3.0,,9.57,True
+2024,Naman Dhir,MI,All-Rounder,,0.2,0.2,sold,Naman Dhir,exact,7.0,140.0,79.0,12.0,10.0,6.0,55.0,28.0,0.0,177.2,11.79,True
+2024,Anshul Kamboj,MI,All-Rounder,,0.2,0.2,sold,A Kamboj,surname+initial,3.0,2.0,2.0,0.0,0.0,0.0,114.0,60.0,2.0,100.0,11.4,True
+2024,Shivalik Sharma,MI,All-Rounder,,0.2,0.2,sold,,ambiguous,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Dilshan Madushanka,MI,Bowler,,0.5,4.6,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Alzarri Joseph,,Bowler,True,1.0,11.5,sold,AS Joseph,surname+initial,3.0,0.0,0.0,0.0,0.0,0.0,115.0,58.0,1.0,,11.9,True
+2024,Yash Dayal,,Bowler,False,0.2,5.0,sold,Yash Dayal,exact,14.0,0.0,0.0,0.0,0.0,0.0,458.0,302.0,15.0,,9.1,True
+2024,Lockie Ferguson,,Bowler,True,2.0,2.0,sold,LH Ferguson,surname+initial,7.0,1.0,1.0,0.0,0.0,1.0,255.0,144.0,9.0,100.0,10.62,True
+2024,Tom Curran,,All-Rounder,,1.5,1.5,sold,TK Curran,surname+initial,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Saurav Chuahan,,Batter,,0.2,0.2,sold,Saurav Chauhan,fuzzy,3.0,18.0,15.0,1.0,1.0,3.0,0.0,0.0,0.0,120.0,,True
+2024,Swapnil Singh,,All-Rounder,False,0.2,0.2,sold,Swapnil Singh,exact,7.0,37.0,21.0,3.0,3.0,2.0,133.0,90.0,6.0,176.2,8.87,True
+2024,Rovman Powell,RR,Batter,True,1.0,7.4,sold,R Powell,surname+initial,7.0,103.0,68.0,10.0,6.0,6.0,0.0,0.0,0.0,151.5,,True
+2024,Shubham Dubey,RR,Batter,,0.2,5.8,sold,SB Dubey,surname+initial,3.0,33.0,19.0,3.0,2.0,2.0,0.0,0.0,0.0,173.7,,True
+2024,Nandre Burger,RR,Bowler,,0.5,0.5,sold,N Burger,surname+initial,5.0,0.0,0.0,0.0,0.0,0.0,145.0,102.0,7.0,,8.53,True
+2024,Tom Kohler-Cadmore,RR,Wicketkeeper,,0.4,0.4,sold,T Kohler-Cadmore,surname+initial,3.0,48.0,54.0,7.0,1.0,3.0,0.0,0.0,0.0,88.9,,True
+2024,Abid Mushtaq,RR,All-Rounder,,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Pat Cummins,SRH,All-Rounder,True,2.0,20.5,sold,PJ Cummins,surname+initial,16.0,136.0,95.0,9.0,8.0,6.0,566.0,366.0,18.0,143.2,9.28,True
+2024,Travis Head,SRH,Batter,,2.0,6.8,sold,TM Head,surname+initial,15.0,567.0,296.0,64.0,32.0,14.0,32.0,10.0,0.0,191.6,19.2,True
+2024,Jaydev Unadkat,SRH,Bowler,False,0.5,1.6,sold,JD Unadkat,surname+initial,11.0,24.0,26.0,2.0,1.0,3.0,319.0,187.0,8.0,92.3,10.24,True
+2024,Wanindu Hasaranga,SRH,All-Rounder,True,1.5,1.5,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Akash Singh,SRH,Bowler,,0.2,0.2,sold,Akash Singh,exact,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
+2024,Jhathavedh Subramanyan,SRH,Bowler,,0.2,0.2,sold,,no_match,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,False
