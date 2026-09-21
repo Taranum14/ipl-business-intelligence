@@ -1,3 +1,4 @@
+
 # Assumptions and limitations
 
 ## A. Business metrics
@@ -66,8 +67,9 @@
 28. Points per crore is total points divided by total spend for a group, not an average of ratios.
 29. Price bands include their upper value, for example (6, 10] and (10, 100]. "Over 10 cr" (18 purchases)
     therefore differs from "10 crore or more" (22 purchases) by the players priced at exactly 10.00.
-30. `played = False` means no appearance was found in the ball-by-ball data. It covers injuries, bench players
-    and players whose names could not be matched (for example Dilshan Madushanka and Robin Minz).
+30. `played = False` means no appearance was found in the ball-by-ball data. It covers injuries (for example
+    Deepak Chahar, Jofra Archer and Mark Wood in 2022), bench players and players whose names could not be
+    matched (for example Dilshan Madushanka and Robin Minz).
 31. Team totals cover auction purchases only, not whole squads. Retained and traded players are missing.
 32. Correlations are Spearman rank correlations on players who played, so purchases who never played are excluded.
 
@@ -90,7 +92,4 @@
     because value only accrues in matches played.
 41. ROI compares purchases with each other within the 2022-2024 auction set. It is not comparable with
     ROI from other datasets or seasons.
-42. Team efficiency scores cover auction purchases only. Retained players (for example KKR's Narine and
-    Russell) are excluded, and each score depends heavily on a few players. Rankings also change with
-    the definition of the performance score (Phase 4 and Phase 5 rank teams differently).
-43. `avg_availability` is averaged over all purchases, including players who never played (availability 0).
+42. Team efficiency scores cover auction

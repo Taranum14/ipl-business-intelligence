@@ -4,6 +4,18 @@ Data: 356 auction purchases (204 from the 2022 mega auction, 80 from 2023, 72 fr
 ball-by-ball performance. Part A comes from `notebooks/03_analysis.ipynb`, Part B from
 `notebooks/04_roi_formula.ipynb`. Re-check every number after re-running.
 
+# Headline findings
+- Price only moderately predicts performance (rank correlation 0.52), and returns per crore fall sharply as
+   price rises: over-10-crore players cost about 37x the cheapest band per player for about 6x the points.
+- A few purchases carry the returns: the top 10% create 63% of business value, and 24 of 356 purchases
+   produce half of it. The typical purchase who played returned about two thirds of its price (median ROI 0.67).
+- The best surpluses came from cheap discoveries (Mohit Sharma, Mohsin Khan, Tristan Stubbs, Shashank Singh),
+   not from the biggest signings.
+- Availability is a hidden cost: 32% of purchases never played, taking 12.3% of spend.
+- Indian purchases returned more points per crore than overseas purchases in every price band.
+- Team rankings are fragile: DC (best) and KKR (worst) hold up, but the middle of the table depends on the
+   scoring method and on a handful of players.
+
 # Part A: Exploration (Phase 4)
 Performance in Part A is a rough score: runs + 20 x wickets.
 
@@ -46,8 +58,14 @@ Rahul Tewatia and Pat Cummins. Treat these as suspects, not verdicts.
 ## 6. Availability is a hidden cost
 114 of 356 purchases (32%) never played that season, but they took only 116.5 crore (12.3% of spend).
 The unused share rose from 10.0% in 2022 to 14.1% in 2023 and 16.5% in 2024 (small samples).
-The three biggest 2022 non-players, Deepak Chahar (14 cr), Jofra Archer (8 cr) and Mark Wood (7.5 cr),
-account for 29.5 of that year's 55.1 unused crore. [Verify the injury reports before publishing.]
+The three highest-priced 2022 purchases who never played, Deepak Chahar (14 cr), Jofra Archer (8 cr) and
+Mark Wood (7.5 cr), account for 29.5 of that year's 55.1 unused crore. All three were injured: Wood was ruled
+out of IPL 2022 with an elbow injury, Archer was reported out for the whole season, and Chahar's quadriceps
+injury was reported to rule him out of most of it (the ball-by-ball data shows no appearance for him in 2022).
+So these losses reflect injuries, not performance.
+*Caveat:* the model cannot tell an injury from a poor purchase, so injured players appear as shortfalls.
+Sources: the ECB statement on Wood as reported by Sentinel Assam (18 March 2022) and cricket.com, "IPL 2022
+injuries, player unavailability and how it is set to affect teams" (March 2022).
 
 ## 7. Indian purchases returned more per crore than overseas purchases in every price band
 | Band | Indian points per crore | Overseas points per crore |
@@ -89,7 +107,14 @@ and Russell.
 ## 11. Value is concentrated in a few purchases
 Only 28% of purchases returned more than they cost. 269 of 356 created no on-field value: 114 never played and
 roughly 155 played below average. In the value-versus-price chart most purchases sit below the value = price line
-and a few sit far above it. [Add the concentration result: top 10% of purchases create X% of all value.]
+and a few sit far above it.
+The top 10% of purchases (35 players) create 63% of all business value, and 24 of 356 purchases (7%) produce
+half of it. Among the 242 purchases who played, the median ROI is 0.67 (25th percentile 0.26, 75th percentile
+2.32, 90th percentile 9.45): the typical purchase who played returned about two thirds of its price, and a
+few big hits carry the average.
+*Caveat:* part of this is built into the model, because value is shared in proportion to impact above average
+and impact is itself skewed. The unweighted mean ROI of 3.99 is inflated by cheap players; the price-weighted
+overall ROI is 1.00 by construction.
 
 ## 12. The biggest surpluses were cheap discoveries
 By surplus (value minus price): Mohit Sharma (GT 2023, 0.5 cr), David Miller (GT 2022, 3.0 cr), Tristan Stubbs
@@ -115,9 +140,12 @@ rank correlation with the baseline stayed at 0.98-0.99, and 12-15 of the top 15 
 Franchise Efficiency Score (business value / auction spend): DC 1.43, GT 1.18, MI 1.16, LSG 1.16, RCB 1.12,
 SRH 0.98, PBKS 0.89, RR 0.84, CSK 0.76, KKR 0.56. DC was best and KKR worst in all six scenarios (team rank
 correlation 0.91-1.00).
-*Caveats:* retained stars are excluded (KKR's Narine and Russell were retained, and KKR won the 2024 title);
-one purchase can drive a team's score (Mohit Sharma alone created about 35% of GT's value).
-[Add the result of the "with and without top player" check.]
+*Caveats:* retained stars are excluded (KKR kept Narine and Russell through retention rather than buying them
+at auction, and KKR won the 2024 title), and a few purchases drive each score.
+Removing each team's single most valuable purchase leaves DC first (1.43 to 1.10) and KKR last (0.56 to 0.45),
+but GT drops from second to sixth (Mohit Sharma alone created 35% of its value) and the middle of the table
+moves by one or two places (MI 3rd to 2nd, RCB 5th to 4th, SRH 6th to 5th, RR 8th to 9th, CSK 9th to 8th).
+Only the top and bottom positions look stable.
 
 ## 16. Team rankings depend on the scoring method
 GT was last in Part A (40.3 points per crore) and second in Part B (1.18); MI fell from first to third and KKR
@@ -134,10 +162,8 @@ RCB 11%, DC 8%, PBKS 7%, SRH 4%, RR 3%.
 - Fielding, wicketkeeping and captaincy are not measured.
 - Off-field value is a proxy (screen time and star moments), not social-media or ticket data.
 - The 20-run wicket and the 70/30 split are assumptions, tested but not estimated.
+- Value is concentrated in a few purchases, so team and player rankings can change when one player is removed.
 - One player's nationality was still missing when the nationality numbers were taken; re-check after the fix.
 
 # To fill in before publishing
-1. Insight 11: top-10% concentration result.
-2. Insight 15: the "with and without top player" team check.
-3. Insight 6: verify the 2022 injury reports (Chahar, Archer, Wood).
-4. Re-check Part A nationality numbers after the last nationality fix.
+1. Re-check the Part A nationality numbers (insight 7) after the last nationality fix.
